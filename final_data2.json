@@ -1,0 +1,5752 @@
+{
+    "114001": {
+        "Mã học sinh": "0132832123",
+        "Họ và tên": "Nguyễn Hoàng Quý An",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "8.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "41.50"
+        }
+    },
+    "114086": {
+        "Mã học sinh": "0117071714",
+        "Họ và tên": "Đặng Ngọc Bích",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.25",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114089": {
+        "Mã học sinh": "0117072546",
+        "Họ và tên": "Phạm Đức Bình",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "4.75",
+            "Toán": "6.75",
+            "Tổng điểm XT": "32.25"
+        }
+    },
+    "114088": {
+        "Mã học sinh": "0117072544",
+        "Họ và tên": "Nguyễn Thị Thanh Bình",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114091": {
+        "Mã học sinh": "0148761792",
+        "Họ và tên": "Đinh Quỳnh Chi",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "4.25",
+            "Toán": "2.75",
+            "Tổng điểm XT": "23.25"
+        }
+    },
+    "114094": {
+        "Mã học sinh": "0131175582",
+        "Họ và tên": "Nguyễn Quỳnh Chi",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "5.25",
+            "Toán": "8.00",
+            "Tổng điểm XT": "33.75"
+        }
+    },
+    "114090": {
+        "Mã học sinh": "0168144545",
+        "Họ và tên": "Hoàng Lê Băng Châu",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.25",
+            "Toán": "6.25",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114093": {
+        "Mã học sinh": "0117068242",
+        "Họ và tên": "Nguyễn Linh Chi",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "2.50",
+            "Toán": "7.00",
+            "Tổng điểm XT": "29.00"
+        }
+    },
+    "114002": {
+        "Mã học sinh": "0117069029",
+        "Họ và tên": "Phùng Quang Thành An",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "9.75",
+            "Toán": "8.75",
+            "Tổng điểm XT": "42.25"
+        }
+    },
+    "114092": {
+        "Mã học sinh": "0117071766",
+        "Họ và tên": "Hà Thị Kim Chi",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.25",
+            "Toán": "8.50",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114003": {
+        "Mã học sinh": "0117069171",
+        "Họ và tên": "Vũ Trường An",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "3.25",
+            "Toán": "8.75",
+            "Tổng điểm XT": "35.75"
+        }
+    },
+    "114004": {
+        "Mã học sinh": "0117068359",
+        "Họ và tên": "Bùi Đức Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "5.75",
+            "Toán": "7.25",
+            "Tổng điểm XT": "32.75"
+        }
+    },
+    "114005": {
+        "Mã học sinh": "0134486932",
+        "Họ và tên": "Bùi Trần Quỳnh Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "6.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114006": {
+        "Mã học sinh": "0117071798",
+        "Họ và tên": "Đặng Phương Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "7.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114008": {
+        "Mã học sinh": "0117072075",
+        "Họ và tên": "Đỗ Tuấn Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "4.75",
+            "Toán": "8.50",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114007": {
+        "Mã học sinh": "0168589852",
+        "Họ và tên": "Đặng Quỳnh Anh",
+        "Điểm thi": {
+            "Ngữ văn": "KT",
+            "Ngoại ngữ": "KT",
+            "Toán": "KT",
+            "Tổng điểm XT": ""
+        }
+    },
+    "114011": {
+        "Mã học sinh": "0132260125",
+        "Họ và tên": "Hà Tuấn Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.25"
+        }
+    },
+    "114009": {
+        "Mã học sinh": "0150530260",
+        "Họ và tên": "Đỗ Tuấn Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "3.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114010": {
+        "Mã học sinh": "0117072658",
+        "Họ và tên": "Hà Thị Ngọc Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "4.50",
+            "Toán": "5.75",
+            "Tổng điểm XT": "31.00"
+        }
+    },
+    "114012": {
+        "Mã học sinh": "0117067934",
+        "Họ và tên": "Hoàng Hà Kiều Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "6.25",
+            "Tổng điểm XT": "36.50"
+        }
+    },
+    "114015": {
+        "Mã học sinh": "0117090918",
+        "Họ và tên": "Lưu Nguyễn Tuấn Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "4.00",
+            "Toán": "8.50",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114014": {
+        "Mã học sinh": "0117068232",
+        "Họ và tên": "Lưu Huyền Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114016": {
+        "Mã học sinh": "0117068238",
+        "Họ và tên": "Lưu Thế Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.25",
+            "Toán": "8.00",
+            "Tổng điểm XT": "38.25"
+        }
+    },
+    "114013": {
+        "Mã học sinh": "0117068973",
+        "Họ và tên": "Lê Quang Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.40",
+            "Ngoại ngữ": "7.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.30"
+        }
+    },
+    "114018": {
+        "Mã học sinh": "0117066951",
+        "Họ và tên": "Ngô Quỳnh Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "7.50",
+            "Toán": "8.25",
+            "Tổng điểm XT": "40.00"
+        }
+    },
+    "114017": {
+        "Mã học sinh": "0117067117",
+        "Họ và tên": "Lưu Thị Lan Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.75",
+            "Tổng điểm XT": "34.75"
+        }
+    },
+    "114095": {
+        "Mã học sinh": "0117072538",
+        "Họ và tên": "Nguyễn Thảo Chi",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "3.75",
+            "Toán": "2.50",
+            "Tổng điểm XT": "19.25"
+        }
+    },
+    "114019": {
+        "Mã học sinh": "0117068217",
+        "Họ và tên": "Nguyễn Bảo Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "39.25"
+        }
+    },
+    "114022": {
+        "Mã học sinh": "0131409638",
+        "Họ và tên": "Nguyễn Duy Việt Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "7.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114021": {
+        "Mã học sinh": "0117072046",
+        "Họ và tên": "Nguyễn Duy Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "5.50",
+            "Toán": "4.25",
+            "Tổng điểm XT": "27.00"
+        }
+    },
+    "114020": {
+        "Mã học sinh": "0150530697",
+        "Họ và tên": "Nguyễn Công Tuấn Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.00"
+        }
+    },
+    "114023": {
+        "Mã học sinh": "0117069031",
+        "Họ và tên": "Nguyễn Đào Quỳnh Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "6.50",
+            "Toán": "5.25",
+            "Tổng điểm XT": "32.00"
+        }
+    },
+    "114024": {
+        "Mã học sinh": "0117068289",
+        "Họ và tên": "Nguyễn Đình Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.25",
+            "Toán": "8.50",
+            "Tổng điểm XT": "39.25"
+        }
+    },
+    "114025": {
+        "Mã học sinh": "0117071712",
+        "Họ và tên": "Nguyễn Đức Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "6.75",
+            "Tổng điểm XT": "29.50"
+        }
+    },
+    "114027": {
+        "Mã học sinh": "0117068230",
+        "Họ và tên": "Nguyễn Hà Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "9.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "42.00"
+        }
+    },
+    "114030": {
+        "Mã học sinh": "0132259992",
+        "Họ và tên": "Nguyễn Mai Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "7.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114028": {
+        "Mã học sinh": "0144648129",
+        "Họ và tên": "Nguyễn Hà Phương Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.00"
+        }
+    },
+    "114029": {
+        "Mã học sinh": "0131409639",
+        "Họ và tên": "Nguyễn Hữu Nam Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "5.75",
+            "Toán": "7.25",
+            "Tổng điểm XT": "32.75"
+        }
+    },
+    "114026": {
+        "Mã học sinh": "0148655472",
+        "Họ và tên": "Nguyễn Đức Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "4.50",
+            "Toán": "8.00",
+            "Tổng điểm XT": "31.50"
+        }
+    },
+    "114033": {
+        "Mã học sinh": "0117068182",
+        "Họ và tên": "Nguyễn Ngọc Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "4.25",
+            "Toán": "6.25",
+            "Tổng điểm XT": "27.25"
+        }
+    },
+    "114036": {
+        "Mã học sinh": "0134487619",
+        "Họ và tên": "Nguyễn Ngọc Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.00",
+            "Tổng điểm XT": "34.25"
+        }
+    },
+    "114032": {
+        "Mã học sinh": "0117066504",
+        "Họ và tên": "Nguyễn Ngọc Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "4.00",
+            "Toán": "6.25",
+            "Tổng điểm XT": "32.00"
+        }
+    },
+    "114031": {
+        "Mã học sinh": "0150530698",
+        "Họ và tên": "Nguyễn Mai Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "7.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "32.50"
+        }
+    },
+    "114034": {
+        "Mã học sinh": "0117068236",
+        "Họ và tên": "Nguyễn Ngọc Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "5.25",
+            "Toán": "7.00",
+            "Tổng điểm XT": "33.75"
+        }
+    },
+    "114035": {
+        "Mã học sinh": "0117068396",
+        "Họ và tên": "Nguyễn Ngọc Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "6.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.25"
+        }
+    },
+    "114042": {
+        "Mã học sinh": "0131175573",
+        "Họ và tên": "Nguyễn Thị Lan Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "4.00",
+            "Toán": "7.25",
+            "Tổng điểm XT": "29.50"
+        }
+    },
+    "114039": {
+        "Mã học sinh": "0117067952",
+        "Họ và tên": "Nguyễn Phan Quang Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "8.00",
+            "Toán": "8.50",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114038": {
+        "Mã học sinh": "0134486933",
+        "Họ và tên": "Nguyễn Ngọc Tuấn Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "7.00",
+            "Toán": "8.00",
+            "Tổng điểm XT": "36.00"
+        }
+    },
+    "114040": {
+        "Mã học sinh": "0117072872",
+        "Họ và tên": "Nguyễn Quang Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "4.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "34.25"
+        }
+    },
+    "114041": {
+        "Mã học sinh": "0117068446",
+        "Họ và tên": "Nguyễn Thế Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "6.25",
+            "Toán": "4.50",
+            "Tổng điểm XT": "26.25"
+        }
+    },
+    "114037": {
+        "Mã học sinh": "0117068581",
+        "Họ và tên": "Nguyễn Ngọc Phương Anh",
+        "Điểm thi": {
+            "Ngữ văn": "3.25",
+            "Ngoại ngữ": "5.50",
+            "Toán": "5.50",
+            "Tổng điểm XT": "23.00"
+        }
+    },
+    "114044": {
+        "Mã học sinh": "0117067059",
+        "Họ và tên": "Nguyễn Thị Mai Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.00",
+            "Tổng điểm XT": "31.75"
+        }
+    },
+    "114045": {
+        "Mã học sinh": "0150530700",
+        "Họ và tên": "Nguyễn Thị Mai Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "7.75",
+            "Toán": "7.25",
+            "Tổng điểm XT": "35.75"
+        }
+    },
+    "114043": {
+        "Mã học sinh": "0134486934",
+        "Họ và tên": "Nguyễn Thị Lan Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "7.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114046": {
+        "Mã học sinh": "0117069797",
+        "Họ và tên": "Nguyễn Thị Ngọc Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "5.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "32.25"
+        }
+    },
+    "114048": {
+        "Mã học sinh": "0131409641",
+        "Họ và tên": "Nguyễn Thị Phương Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "5.50",
+            "Toán": "8.25",
+            "Tổng điểm XT": "35.50"
+        }
+    },
+    "114047": {
+        "Mã học sinh": "0131175575",
+        "Họ và tên": "Nguyễn Thị Ngọc Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "6.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114049": {
+        "Mã học sinh": "0148647120",
+        "Họ và tên": "Nguyễn Thị Phương Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "6.00",
+            "Toán": "3.50",
+            "Tổng điểm XT": "26.50"
+        }
+    },
+    "114050": {
+        "Mã học sinh": "0117073901",
+        "Họ và tên": "Nguyễn Thị Vân Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.00",
+            "Toán": "6.25",
+            "Tổng điểm XT": "33.00"
+        }
+    },
+    "114053": {
+        "Mã học sinh": "0131175577",
+        "Họ và tên": "Nguyễn Tuấn Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "3.00",
+            "Toán": "8.50",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114055": {
+        "Mã học sinh": "0117071734",
+        "Họ và tên": "Nguyễn Việt Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "6.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.25"
+        }
+    },
+    "114052": {
+        "Mã học sinh": "0117068084",
+        "Họ và tên": "Nguyễn Tuấn Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.25",
+            "Toán": "8.00",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114054": {
+        "Mã học sinh": "0117068983",
+        "Họ và tên": "Nguyễn Viết Việt Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "7.25",
+            "Toán": "6.50",
+            "Tổng điểm XT": "30.75"
+        }
+    },
+    "114056": {
+        "Mã học sinh": "0117066791",
+        "Họ và tên": "Phan Thị Lan Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "8.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114051": {
+        "Mã học sinh": "0117066731",
+        "Họ và tên": "Nguyễn Tuấn Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "1.75",
+            "Toán": "6.00",
+            "Tổng điểm XT": "26.25"
+        }
+    },
+    "114057": {
+        "Mã học sinh": "0142928150",
+        "Họ và tên": "Phạm Ngọc Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "5.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "34.00"
+        }
+    },
+    "114058": {
+        "Mã học sinh": "0117066890",
+        "Họ và tên": "Phạm Ngọc Phương Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "7.25",
+            "Toán": "8.00",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114059": {
+        "Mã học sinh": "0117072503",
+        "Họ và tên": "Phạm Nguyệt Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114062": {
+        "Mã học sinh": "0117067936",
+        "Họ và tên": "Phùng Lưu Kiều Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.00",
+            "Tổng điểm XT": "33.00"
+        }
+    },
+    "114061": {
+        "Mã học sinh": "0117068291",
+        "Họ và tên": "Phùng Đức Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "8.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.50"
+        }
+    },
+    "114060": {
+        "Mã học sinh": "0117072505",
+        "Họ và tên": "Phạm Thị Vân Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "7.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "41.25"
+        }
+    },
+    "114063": {
+        "Mã học sinh": "0117068088",
+        "Họ và tên": "Phùng Minh Quang Anh",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "5.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "33.25"
+        }
+    },
+    "114064": {
+        "Mã học sinh": "0117068090",
+        "Họ và tên": "Phùng Thị Phương Anh",
+        "Điểm thi": {
+            "Ngữ văn": "4.00",
+            "Ngoại ngữ": "1.50",
+            "Toán": "1.75",
+            "Tổng điểm XT": "13.00"
+        }
+    },
+    "114068": {
+        "Mã học sinh": "0117068987",
+        "Họ và tên": "Tạ Tú Anh",
+        "Điểm thi": {
+            "Ngữ văn": "2.25",
+            "Ngoại ngữ": "3.75",
+            "Toán": "1.50",
+            "Tổng điểm XT": "11.25"
+        }
+    },
+    "114067": {
+        "Mã học sinh": "0117067932",
+        "Họ và tên": "Quách Trần Quỳnh Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "5.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114065": {
+        "Mã học sinh": "0117068186",
+        "Họ và tên": "Phùng Thị Phương Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "8.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "39.00"
+        }
+    },
+    "114069": {
+        "Mã học sinh": "0144209658",
+        "Họ và tên": "Trần Đức Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "9.50",
+            "Toán": "8.50",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114070": {
+        "Mã học sinh": "0133728696",
+        "Họ và tên": "Trần Hải Anh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.25"
+        }
+    },
+    "114066": {
+        "Mã học sinh": "0117068188",
+        "Họ và tên": "Phùng Việt Anh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "4.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114072": {
+        "Mã học sinh": "0117066499",
+        "Họ và tên": "Đỗ Ngọc Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "5.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "35.50"
+        }
+    },
+    "114073": {
+        "Mã học sinh": "0117068500",
+        "Họ và tên": "Kiều Thị Ngọc Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "6.50",
+            "Tổng điểm XT": "33.00"
+        }
+    },
+    "114074": {
+        "Mã học sinh": "0117067061",
+        "Họ và tên": "Lưu Thị Mai Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "4.00",
+            "Ngoại ngữ": "2.25",
+            "Toán": "5.00",
+            "Tổng điểm XT": "20.25"
+        }
+    },
+    "114071": {
+        "Mã học sinh": "0117068150",
+        "Họ và tên": "Trần Minh Anh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "9.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "43.50"
+        }
+    },
+    "114075": {
+        "Mã học sinh": "0117066884",
+        "Họ và tên": "Nguyễn Ngọc Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "39.00"
+        }
+    },
+    "114076": {
+        "Mã học sinh": "0117072890",
+        "Họ và tên": "Nguyễn Thị Ngọc Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "1.75",
+            "Toán": "1.25",
+            "Tổng điểm XT": "16.25"
+        }
+    },
+    "114082": {
+        "Mã học sinh": "0144209661",
+        "Họ và tên": "Trần Minh Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "4.75",
+            "Ngoại ngữ": "4.50",
+            "Toán": "5.75",
+            "Tổng điểm XT": "25.50"
+        }
+    },
+    "114081": {
+        "Mã học sinh": "0132260130",
+        "Họ và tên": "Trần Minh Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114077": {
+        "Mã học sinh": "0131175579",
+        "Họ và tên": "Nguyễn Thị Ngọc Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "5.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "33.75"
+        }
+    },
+    "114078": {
+        "Mã học sinh": "0131409644",
+        "Họ và tên": "Nguyễn Thị Ngọc Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "36.50"
+        }
+    },
+    "114079": {
+        "Mã học sinh": "0117072583",
+        "Họ và tên": "Tạ Thị Ngọc Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "5.25",
+            "Toán": "6.50",
+            "Tổng điểm XT": "29.75"
+        }
+    },
+    "114080": {
+        "Mã học sinh": "0117072612",
+        "Họ và tên": "Tạ Thị Ngọc Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "6.75",
+            "Toán": "7.00",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114083": {
+        "Mã học sinh": "0133953766",
+        "Họ và tên": "Trịnh Ngọc Ánh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "2.75",
+            "Toán": "6.25",
+            "Tổng điểm XT": "28.25"
+        }
+    },
+    "114085": {
+        "Mã học sinh": "0117068510",
+        "Họ và tên": "Nguyễn Hoài Biển",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "3.75",
+            "Toán": "7.75",
+            "Tổng điểm XT": "32.25"
+        }
+    },
+    "114084": {
+        "Mã học sinh": "0133953865",
+        "Họ và tên": "Nguyễn Xuân Bắc",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "4.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114097": {
+        "Mã học sinh": "0131409647",
+        "Họ và tên": "Phùng Thị Quỳnh Chi",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "4.00",
+            "Toán": "6.00",
+            "Tổng điểm XT": "32.00"
+        }
+    },
+    "114087": {
+        "Mã học sinh": "0117067111",
+        "Họ và tên": "Lê Văn Bình",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.75",
+            "Toán": "8.00",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114096": {
+        "Mã học sinh": "0117068240",
+        "Họ và tên": "Phùng Linh Chi",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "8.75",
+            "Toán": "8.75",
+            "Tổng điểm XT": "41.25"
+        }
+    },
+    "114099": {
+        "Mã học sinh": "0117068440",
+        "Họ và tên": "Hoàng Anh Chung",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "7.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114102": {
+        "Mã học sinh": "0131409649",
+        "Họ và tên": "Đỗ Kiến Cường",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "7.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "36.50"
+        }
+    },
+    "114100": {
+        "Mã học sinh": "0117072512",
+        "Họ và tên": "Nguyễn Văn Chung",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "3.25",
+            "Toán": "6.75",
+            "Tổng điểm XT": "31.25"
+        }
+    },
+    "114101": {
+        "Mã học sinh": "0117071710",
+        "Họ và tên": "Nguyễn Thị Thanh Chúc",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "8.75",
+            "Toán": "7.25",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114098": {
+        "Mã học sinh": "0117069178",
+        "Họ và tên": "Phan Thanh Chính",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "6.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114105": {
+        "Mã học sinh": "0117066467",
+        "Họ và tên": "Nguyễn Kiên Cường",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114106": {
+        "Mã học sinh": "0117068244",
+        "Họ và tên": "Nguyễn Thế Cường",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "8.00",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114103": {
+        "Mã học sinh": "0131409650",
+        "Họ và tên": "Hoàng Trí Cường",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "5.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "31.50"
+        }
+    },
+    "114107": {
+        "Mã học sinh": "0117068478",
+        "Họ và tên": "Lưu Thị Ngọc Diễm",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "4.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "35.75"
+        }
+    },
+    "114108": {
+        "Mã học sinh": "0131175585",
+        "Họ và tên": "Nguyễn Thị Ngọc Diệp",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "2.25",
+            "Toán": "7.00",
+            "Tổng điểm XT": "28.25"
+        }
+    },
+    "114109": {
+        "Mã học sinh": "0130528676",
+        "Họ và tên": "Phạm Ngọc Diệp",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "6.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114104": {
+        "Mã học sinh": "0131409651",
+        "Họ và tên": "Lê Việt Cường",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "4.00",
+            "Toán": "7.25",
+            "Tổng điểm XT": "31.50"
+        }
+    },
+    "114110": {
+        "Mã học sinh": "0117072513",
+        "Họ và tên": "Nguyễn Huyền Diệu",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "4.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "32.50"
+        }
+    },
+    "114111": {
+        "Mã học sinh": "0117066781",
+        "Họ và tên": "Lỗ Thị Dịu",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "4.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114113": {
+        "Mã học sinh": "0117066763",
+        "Họ và tên": "Lưu Thị Thùy Dung",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "4.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "31.00"
+        }
+    },
+    "114115": {
+        "Mã học sinh": "0117073007",
+        "Họ và tên": "Nguyễn Thị Thúy Dung",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "3.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "31.00"
+        }
+    },
+    "114112": {
+        "Mã học sinh": "0117066797",
+        "Họ và tên": "Lê Thị Thùy Dung",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "3.75",
+            "Toán": "5.00",
+            "Tổng điểm XT": "23.75"
+        }
+    },
+    "114114": {
+        "Mã học sinh": "0117068349",
+        "Họ và tên": "Nguyễn Ngân Dung",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.75",
+            "Toán": "6.75",
+            "Tổng điểm XT": "34.75"
+        }
+    },
+    "114118": {
+        "Mã học sinh": "0117071628",
+        "Họ và tên": "Nguyễn Đức Duy",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114119": {
+        "Mã học sinh": "0131409653",
+        "Họ và tên": "Nguyễn Hữu Duy",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "4.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114120": {
+        "Mã học sinh": "0117068194",
+        "Họ và tên": "Nguyễn Viết Duy",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.00",
+            "Toán": "7.00",
+            "Tổng điểm XT": "36.00"
+        }
+    },
+    "114117": {
+        "Mã học sinh": "0117073009",
+        "Họ và tên": "Lưu Tiến Duy",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "2.50",
+            "Toán": "6.00",
+            "Tổng điểm XT": "30.00"
+        }
+    },
+    "114116": {
+        "Mã học sinh": "0117069180",
+        "Họ và tên": "Đỗ Viết Duy",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114121": {
+        "Mã học sinh": "0117067943",
+        "Họ và tên": "Phùng Quang Duy",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "6.25",
+            "Tổng điểm XT": "34.00"
+        }
+    },
+    "114126": {
+        "Mã học sinh": "0117069811",
+        "Họ và tên": "Nguyễn Mạnh Dũng",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "33.75"
+        }
+    },
+    "114123": {
+        "Mã học sinh": "0117066916",
+        "Họ và tên": "Trần Nhất Duy",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "8.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.50"
+        }
+    },
+    "114124": {
+        "Mã học sinh": "0131175588",
+        "Họ và tên": "Lê Đình Dũng",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "3.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "32.75"
+        }
+    },
+    "114125": {
+        "Mã học sinh": "0117067945",
+        "Họ và tên": "Lưu Văn Dũng",
+        "Điểm thi": {
+            "Ngữ văn": "2.25",
+            "Ngoại ngữ": "7.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "26.75"
+        }
+    },
+    "114127": {
+        "Mã học sinh": "0117069135",
+        "Họ và tên": "Nguyễn Tiến Dũng",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "4.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114122": {
+        "Mã học sinh": "0131409654",
+        "Họ và tên": "Phùng Viết Duy",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "6.75",
+            "Toán": "8.50",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114129": {
+        "Mã học sinh": "0131175590",
+        "Họ và tên": "Nguyễn Tiến Dũng",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "5.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114132": {
+        "Mã học sinh": "0117066558",
+        "Họ và tên": "Trịnh Đình Dũng",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "7.00",
+            "Tổng điểm XT": "34.00"
+        }
+    },
+    "114130": {
+        "Mã học sinh": "0117068246",
+        "Họ và tên": "Phùng Minh Dũng",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114131": {
+        "Mã học sinh": "0144209660",
+        "Họ và tên": "Trần Tiến Dũng",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "9.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114128": {
+        "Mã học sinh": "0117071730",
+        "Họ và tên": "Nguyễn Tiến Dũng",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.50",
+            "Toán": "8.25",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114133": {
+        "Mã học sinh": "0117068374",
+        "Họ và tên": "Bùi Thị Ánh Dương",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "7.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.00"
+        }
+    },
+    "114135": {
+        "Mã học sinh": "0117068196",
+        "Họ và tên": "Kiều Thị Kim Dương",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "5.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "38.25"
+        }
+    },
+    "114134": {
+        "Mã học sinh": "0117067053",
+        "Họ và tên": "Đặng Thái Dương",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "5.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114138": {
+        "Mã học sinh": "0117067135",
+        "Họ và tên": "Nguyễn Minh Dương",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "7.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "32.25"
+        }
+    },
+    "114139": {
+        "Mã học sinh": "0117072646",
+        "Họ và tên": "Nguyễn Ngọc Dương",
+        "Điểm thi": {
+            "Ngữ văn": "3.50",
+            "Ngoại ngữ": "2.25",
+            "Toán": "0.25",
+            "Tổng điểm XT": "9.75"
+        }
+    },
+    "114136": {
+        "Mã học sinh": "0117068293",
+        "Họ và tên": "Lưu Thùy Dương",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114137": {
+        "Mã học sinh": "0117066765",
+        "Họ và tên": "Nguyễn Hoàng Dương",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114146": {
+        "Mã học sinh": "0117072572",
+        "Họ và tên": "Tạ Diệu Dương",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "9.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "44.50"
+        }
+    },
+    "114140": {
+        "Mã học sinh": "0117072548",
+        "Họ và tên": "Nguyễn Quý Dương",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "8.75",
+            "Toán": "10.00",
+            "Tổng điểm XT": "44.75"
+        }
+    },
+    "114147": {
+        "Mã học sinh": "0117071733",
+        "Họ và tên": "Đỗ Thị Anh Đào",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "6.75",
+            "Toán": "7.75",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114145": {
+        "Mã học sinh": "0117072570",
+        "Họ và tên": "Phạm Ánh Dương",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "7.25",
+            "Toán": "8.75",
+            "Tổng điểm XT": "40.75"
+        }
+    },
+    "114141": {
+        "Mã học sinh": "0117072550",
+        "Họ và tên": "Nguyễn Thị Dương",
+        "Điểm thi": {
+            "Ngữ văn": "3.25",
+            "Ngoại ngữ": "4.25",
+            "Toán": "0.25",
+            "Tổng điểm XT": "11.25"
+        }
+    },
+    "114142": {
+        "Mã học sinh": "0150530701",
+        "Họ và tên": "Nguyễn Thị Thùy Dương",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "5.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114148": {
+        "Mã học sinh": "0117072848",
+        "Họ và tên": "Đinh Bá Đạt",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "4.50",
+            "Toán": "7.25",
+            "Tổng điểm XT": "33.00"
+        }
+    },
+    "114144": {
+        "Mã học sinh": "0117066855",
+        "Họ và tên": "Phan Tùng Dương",
+        "Điểm thi": {
+            "Ngữ văn": "3.25",
+            "Ngoại ngữ": "4.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "29.25"
+        }
+    },
+    "114151": {
+        "Mã học sinh": "0117068297",
+        "Họ và tên": "Lưu Đức Đạt",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "4.50",
+            "Toán": "7.00",
+            "Tổng điểm XT": "29.00"
+        }
+    },
+    "114153": {
+        "Mã học sinh": "0117068301",
+        "Họ và tên": "Lưu Hoàng Phát Đạt",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "37.00"
+        }
+    },
+    "114149": {
+        "Mã học sinh": "0150530702",
+        "Họ và tên": "Đỗ Quang Đạt",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114143": {
+        "Mã học sinh": "0117072978",
+        "Họ và tên": "Nguyễn Thùy Dương",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "5.50",
+            "Toán": "5.25",
+            "Tổng điểm XT": "31.50"
+        }
+    },
+    "114154": {
+        "Mã học sinh": "0117068299",
+        "Họ và tên": "Nguyễn Tiến Đạt",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "40.00"
+        }
+    },
+    "114152": {
+        "Mã học sinh": "0137547089",
+        "Họ và tên": "Lưu Gia Đạt",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "9.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.25"
+        }
+    },
+    "114155": {
+        "Mã học sinh": "0131175598",
+        "Họ và tên": "Nguyễn Tiến Đạt",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114150": {
+        "Mã học sinh": "0117072648",
+        "Họ và tên": "Kiều Thành Đạt",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "37.00"
+        }
+    },
+    "114158": {
+        "Mã học sinh": "0144209663",
+        "Họ và tên": "Đào Hải Đăng",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114156": {
+        "Mã học sinh": "0150530703",
+        "Họ và tên": "Nguyễn Tiến Đạt",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "5.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "37.00"
+        }
+    },
+    "114157": {
+        "Mã học sinh": "0117069805",
+        "Họ và tên": "Phạm Tiến Đạt",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "7.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.50"
+        }
+    },
+    "114161": {
+        "Mã học sinh": "0117066717",
+        "Họ và tên": "Lưu Duy Đông",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "39.00"
+        }
+    },
+    "114162": {
+        "Mã học sinh": "0117071679",
+        "Họ và tên": "Trịnh Thu Đông",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "6.50",
+            "Toán": "6.00",
+            "Tổng điểm XT": "29.00"
+        }
+    },
+    "114159": {
+        "Mã học sinh": "0117072574",
+        "Họ và tên": "Phạm Minh Đăng",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "8.00",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114160": {
+        "Mã học sinh": "0117072649",
+        "Họ và tên": "Kiều Thành Đông",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "3.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114163": {
+        "Mã học sinh": "0117068303",
+        "Họ và tên": "Đỗ Đức Độ",
+        "Điểm thi": {
+            "Ngữ văn": "3.75",
+            "Ngoại ngữ": "2.50",
+            "Toán": "6.50",
+            "Tổng điểm XT": "23.00"
+        }
+    },
+    "114165": {
+        "Mã học sinh": "0168587968",
+        "Họ và tên": "Đỗ Tiến Đức",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "5.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "35.50"
+        }
+    },
+    "114166": {
+        "Mã học sinh": "0117067031",
+        "Họ và tên": "Lưu Văn Đức",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114167": {
+        "Mã học sinh": "0117066555",
+        "Họ và tên": "Nguyễn Anh Đức",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "9.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "45.00"
+        }
+    },
+    "114164": {
+        "Mã học sinh": "0117069182",
+        "Họ và tên": "Đỗ Minh Đức",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "5.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114169": {
+        "Mã học sinh": "0117068991",
+        "Họ và tên": "Phùng Đình Đức",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "4.25",
+            "Toán": "6.25",
+            "Tổng điểm XT": "29.25"
+        }
+    },
+    "114170": {
+        "Mã học sinh": "0131175603",
+        "Họ và tên": "Trần Minh Đức",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "7.25",
+            "Toán": "7.00",
+            "Tổng điểm XT": "34.75"
+        }
+    },
+    "114171": {
+        "Mã học sinh": "0131175604",
+        "Họ và tên": "Trần Văn Đức",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114172": {
+        "Mã học sinh": "0117073118",
+        "Họ và tên": "Đàm Hương Giang",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "4.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "34.75"
+        }
+    },
+    "114168": {
+        "Mã học sinh": "0117072036",
+        "Họ và tên": "Nguyễn Minh Đức",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "3.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "29.00"
+        }
+    },
+    "114173": {
+        "Mã học sinh": "0131175606",
+        "Họ và tên": "Đặng Hương Giang",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "10.0",
+            "Toán": "9.75",
+            "Tổng điểm XT": "47.00"
+        }
+    },
+    "114179": {
+        "Mã học sinh": "0117067078",
+        "Họ và tên": "Lưu Tùng Giang",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "41.50"
+        }
+    },
+    "114174": {
+        "Mã học sinh": "0117066453",
+        "Họ và tên": "Đỗ Thị Trà Giang",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "7.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "39.00"
+        }
+    },
+    "114175": {
+        "Mã học sinh": "0117073882",
+        "Họ và tên": "Đỗ Thu Giang",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "8.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "40.75"
+        }
+    },
+    "114178": {
+        "Mã học sinh": "0117068583",
+        "Họ và tên": "Lưu Hương Giang",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "5.25",
+            "Toán": "3.00",
+            "Tổng điểm XT": "24.25"
+        }
+    },
+    "114176": {
+        "Mã học sinh": "0131175607",
+        "Họ và tên": "Lê Hương Giang",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "3.25",
+            "Toán": "6.25",
+            "Tổng điểm XT": "28.75"
+        }
+    },
+    "114181": {
+        "Mã học sinh": "0117068549",
+        "Họ và tên": "Nguyễn Hương Giang",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.25",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114180": {
+        "Mã học sinh": "0117073923",
+        "Họ và tên": "Nguyễn Đàm Hương Giang",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "6.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114177": {
+        "Mã học sinh": "0117068995",
+        "Họ và tên": "Lê Thị Linh Giang",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "7.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114182": {
+        "Mã học sinh": "0117072576",
+        "Họ và tên": "Nguyễn Hương Giang",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "8.75",
+            "Toán": "7.25",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114185": {
+        "Mã học sinh": "0133728698",
+        "Họ và tên": "Nguyễn Trường Giang",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "8.75",
+            "Toán": "8.00",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114184": {
+        "Mã học sinh": "0117073925",
+        "Họ và tên": "Nguyễn Thùy Giang",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "3.00",
+            "Toán": "4.75",
+            "Tổng điểm XT": "28.50"
+        }
+    },
+    "114188": {
+        "Mã học sinh": "0130870048",
+        "Họ và tên": "Võ Hương Giang",
+        "Điểm thi": {
+            "Ngữ văn": "3.75",
+            "Ngoại ngữ": "4.00",
+            "Toán": "6.25",
+            "Tổng điểm XT": "24.00"
+        }
+    },
+    "114183": {
+        "Mã học sinh": "0117068100",
+        "Họ và tên": "Nguyễn Thị Hương Giang",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "38.25"
+        }
+    },
+    "114186": {
+        "Mã học sinh": "0167802573",
+        "Họ và tên": "Phạm Vĩnh Giang",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "9.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "43.00"
+        }
+    },
+    "114189": {
+        "Mã học sinh": "0117760652",
+        "Họ và tên": "Lê Thị Thu Hà",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "5.25",
+            "Toán": "1.50",
+            "Tổng điểm XT": "18.75"
+        }
+    },
+    "114190": {
+        "Mã học sinh": "0117072489",
+        "Họ và tên": "Phan Thị Thu Hà",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "5.75",
+            "Toán": "6.50",
+            "Tổng điểm XT": "35.75"
+        }
+    },
+    "114191": {
+        "Mã học sinh": "0117066809",
+        "Họ và tên": "Phạm Thanh Hà",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "9.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.75"
+        }
+    },
+    "114192": {
+        "Mã học sinh": "0117068317",
+        "Họ và tên": "Nguyễn Đại Hải",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114187": {
+        "Mã học sinh": "0117072578",
+        "Họ và tên": "Tạ Hoàng Giang",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "7.00",
+            "Toán": "7.25",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114195": {
+        "Mã học sinh": "0117072491",
+        "Họ và tên": "Nguyễn Hồng Hạnh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.50",
+            "Toán": "6.25",
+            "Tổng điểm XT": "33.00"
+        }
+    },
+    "114194": {
+        "Mã học sinh": "0117069137",
+        "Họ và tên": "Đỗ Thị Hồng Hạnh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "5.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114198": {
+        "Mã học sinh": "0117067139",
+        "Họ và tên": "Lưu Thị Lệ Hằng",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.75"
+        }
+    },
+    "114196": {
+        "Mã học sinh": "0150530705",
+        "Họ và tên": "Nguyễn Thị Hạnh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.50"
+        }
+    },
+    "114193": {
+        "Mã học sinh": "0117068169",
+        "Họ và tên": "Nguyễn Hữu Hải",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "8.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114197": {
+        "Mã học sinh": "0137584980",
+        "Họ và tên": "Bùi Thị Bích Hằng",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "7.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "40.25"
+        }
+    },
+    "114199": {
+        "Mã học sinh": "0117072651",
+        "Họ và tên": "Nguyễn Thị Thu Hằng",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "9.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "43.25"
+        }
+    },
+    "114203": {
+        "Mã học sinh": "0117066769",
+        "Họ và tên": "Lê Thị Hồng Hậu",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.75",
+            "Toán": "7.75",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114201": {
+        "Mã học sinh": "0117072091",
+        "Họ và tên": "Phạm Thị Thu Hằng",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "6.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.25"
+        }
+    },
+    "114200": {
+        "Mã học sinh": "0144648136",
+        "Họ và tên": "Nguyễn Thị Thu Hằng",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "3.75",
+            "Toán": "4.75",
+            "Tổng điểm XT": "30.25"
+        }
+    },
+    "114204": {
+        "Mã học sinh": "0131175613",
+        "Họ và tên": "Nguyễn Bích Hậu",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "6.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114202": {
+        "Mã học sinh": "0144209664",
+        "Họ và tên": "Trần Thị Hằng",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "6.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114205": {
+        "Mã học sinh": "0117068378",
+        "Họ và tên": "Bùi Đức Hiếu",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.25",
+            "Toán": "8.75",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114207": {
+        "Mã học sinh": "0117072062",
+        "Họ và tên": "Nguyễn Minh Hiếu",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "7.25",
+            "Toán": "6.75",
+            "Tổng điểm XT": "33.75"
+        }
+    },
+    "114206": {
+        "Mã học sinh": "0117069192",
+        "Họ và tên": "Hoàng Minh Hiếu",
+        "Điểm thi": {
+            "Ngữ văn": "6.67",
+            "Ngoại ngữ": "5.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "35.09"
+        }
+    },
+    "114208": {
+        "Mã học sinh": "0117067107",
+        "Họ và tên": "Trịnh Trung Hiếu",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "3.75",
+            "Toán": "7.00",
+            "Tổng điểm XT": "30.75"
+        }
+    },
+    "114213": {
+        "Mã học sinh": "0150530708",
+        "Họ và tên": "Nguyễn Thị Thúy Hiền",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "6.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114210": {
+        "Mã học sinh": "0154438522",
+        "Họ và tên": "Đỗ Thị Thu Hiền",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "9.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.75"
+        }
+    },
+    "114209": {
+        "Mã học sinh": "0131175626",
+        "Họ và tên": "Vũ Trung Hiếu",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "9.50",
+            "Toán": "9.75",
+            "Tổng điểm XT": "46.00"
+        }
+    },
+    "114211": {
+        "Mã học sinh": "0150530707",
+        "Họ và tên": "Nguyễn Thị Hiền",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "8.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "44.00"
+        }
+    },
+    "114214": {
+        "Mã học sinh": "0131409664",
+        "Họ và tên": "Phùng Thị Thu Hiền",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "7.75",
+            "Toán": "8.00",
+            "Tổng điểm XT": "40.75"
+        }
+    },
+    "114215": {
+        "Mã học sinh": "0131175619",
+        "Họ và tên": "Phan Ngọc Hiển",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "3.25",
+            "Toán": "8.50",
+            "Tổng điểm XT": "34.25"
+        }
+    },
+    "114212": {
+        "Mã học sinh": "0117072120",
+        "Họ và tên": "Nguyễn Thị Thảo Hiền",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "5.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.00"
+        }
+    },
+    "114216": {
+        "Mã học sinh": "0117072050",
+        "Họ và tên": "Nguyễn Hoàng Hiệp",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "7.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114217": {
+        "Mã học sinh": "0117072654",
+        "Họ và tên": "Nguyễn Thị Hoa",
+        "Điểm thi": {
+            "Ngữ văn": "9.00",
+            "Ngoại ngữ": "7.75",
+            "Toán": "8.75",
+            "Tổng điểm XT": "43.25"
+        }
+    },
+    "114221": {
+        "Mã học sinh": "0150530711",
+        "Họ và tên": "Nguyễn Văn Hoàn",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "8.50",
+            "Toán": "8.50",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114219": {
+        "Mã học sinh": "0150532661",
+        "Họ và tên": "Đỗ Quang Hoàn",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.75",
+            "Toán": "8.75",
+            "Tổng điểm XT": "38.25"
+        }
+    },
+    "114223": {
+        "Mã học sinh": "0117068137",
+        "Họ và tên": "Phùng Viết Huy Hoàng",
+        "Điểm thi": {
+            "Ngữ văn": "4.50",
+            "Ngoại ngữ": "4.00",
+            "Toán": "4.00",
+            "Tổng điểm XT": "21.00"
+        }
+    },
+    "114218": {
+        "Mã học sinh": "0131409665",
+        "Họ và tên": "Nguyễn Thị Thanh Hoa",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "7.25",
+            "Toán": "5.75",
+            "Tổng điểm XT": "31.25"
+        }
+    },
+    "114220": {
+        "Mã học sinh": "0117072038",
+        "Họ và tên": "Nguyễn Huy Hoàn",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.75",
+            "Toán": "6.75",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114222": {
+        "Mã học sinh": "0134486936",
+        "Họ và tên": "Nguyễn Huy Hoàng",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "4.75",
+            "Toán": "7.25",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114227": {
+        "Mã học sinh": "0131175633",
+        "Họ và tên": "Nguyễn Thị Phương Huế",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "3.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "30.50"
+        }
+    },
+    "114224": {
+        "Mã học sinh": "0117066924",
+        "Họ và tên": "Trần Nguyễn Thanh Hòa",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "7.00",
+            "Toán": "8.00",
+            "Tổng điểm XT": "35.50"
+        }
+    },
+    "114226": {
+        "Mã học sinh": "0150530712",
+        "Họ và tên": "Đỗ Thị Hồng",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114225": {
+        "Mã học sinh": "0144209669",
+        "Họ và tên": "Đỗ Thị Hồng",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "6.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "39.25"
+        }
+    },
+    "114228": {
+        "Mã học sinh": "0150530715",
+        "Họ và tên": "Đỗ Thị Huệ",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "5.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114229": {
+        "Mã học sinh": "0117068959",
+        "Họ và tên": "Bùi Đức Huy",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "7.00",
+            "Toán": "7.25",
+            "Tổng điểm XT": "34.00"
+        }
+    },
+    "114231": {
+        "Mã học sinh": "0117072609",
+        "Họ và tên": "Hoàng Gia Huy",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "4.50",
+            "Toán": "4.50",
+            "Tổng điểm XT": "29.50"
+        }
+    },
+    "114232": {
+        "Mã học sinh": "0117068547",
+        "Họ và tên": "Kiều Quang Huy",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "7.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114233": {
+        "Mã học sinh": "0131175649",
+        "Họ và tên": "Nguyễn Tiến Huy",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "3.75",
+            "Toán": "6.75",
+            "Tổng điểm XT": "30.25"
+        }
+    },
+    "114235": {
+        "Mã học sinh": "0144209674",
+        "Họ và tên": "Vũ Quang Huy",
+        "Điểm thi": {
+            "Ngữ văn": "4.25",
+            "Ngoại ngữ": "3.75",
+            "Toán": "4.50",
+            "Tổng điểm XT": "21.25"
+        }
+    },
+    "114236": {
+        "Mã học sinh": "0117068530",
+        "Họ và tên": "Kiều Ngọc Huyền",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.50"
+        }
+    },
+    "114230": {
+        "Mã học sinh": "0168590919",
+        "Họ và tên": "Đỗ Đăng Huy",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "6.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "33.00"
+        }
+    },
+    "114234": {
+        "Mã học sinh": "0131409667",
+        "Họ và tên": "Phùng Viết Huy",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.25"
+        }
+    },
+    "114239": {
+        "Mã học sinh": "0117072095",
+        "Họ và tên": "Nguyễn Thị Khánh Huyền",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "4.50",
+            "Toán": "8.25",
+            "Tổng điểm XT": "36.00"
+        }
+    },
+    "114238": {
+        "Mã học sinh": "0117067979",
+        "Họ và tên": "Lưu Thị Thanh Huyền",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.75",
+            "Toán": "7.00",
+            "Tổng điểm XT": "34.75"
+        }
+    },
+    "114237": {
+        "Mã học sinh": "0117068133",
+        "Họ và tên": "Lưu Thị Ngọc Huyền",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "7.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.75"
+        }
+    },
+    "114241": {
+        "Mã học sinh": "0117072493",
+        "Họ và tên": "Phạm Thu Huyền",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "3.00",
+            "Toán": "5.00",
+            "Tổng điểm XT": "27.00"
+        }
+    },
+    "114240": {
+        "Mã học sinh": "0150530717",
+        "Họ và tên": "Nguyễn Thị Khánh Huyền",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114243": {
+        "Mã học sinh": "0117072566",
+        "Họ và tên": "Tạ Thanh Huyền",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "4.75",
+            "Toán": "6.75",
+            "Tổng điểm XT": "34.75"
+        }
+    },
+    "114242": {
+        "Mã học sinh": "0131409668",
+        "Họ và tên": "Phùng Thị Thanh Huyền",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "5.75",
+            "Toán": "8.50",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114244": {
+        "Mã học sinh": "0117072495",
+        "Họ và tên": "Trần Nguyễn Khánh Huyền",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "4.50",
+            "Toán": "7.00",
+            "Tổng điểm XT": "34.00"
+        }
+    },
+    "114247": {
+        "Mã học sinh": "0150530718",
+        "Họ và tên": "Đỗ Tuấn Hưng",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "6.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114245": {
+        "Mã học sinh": "0117067017",
+        "Họ và tên": "Phan Trọng Huỳnh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "3.75",
+            "Toán": "8.00",
+            "Tổng điểm XT": "33.25"
+        }
+    },
+    "114246": {
+        "Mã học sinh": "0117071704",
+        "Họ và tên": "Nguyễn Thế Hùng",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "6.50",
+            "Toán": "7.75",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114248": {
+        "Mã học sinh": "0150530939",
+        "Họ và tên": "Đỗ Tuấn Hưng",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "7.00",
+            "Toán": "6.50",
+            "Tổng điểm XT": "32.00"
+        }
+    },
+    "114249": {
+        "Mã học sinh": "0117067950",
+        "Họ và tên": "Lê Quang Hưng",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.25",
+            "Toán": "8.75",
+            "Tổng điểm XT": "40.25"
+        }
+    },
+    "114252": {
+        "Mã học sinh": "0131409669",
+        "Họ và tên": "Tạ Quốc Hưng",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.75",
+            "Toán": "8.75",
+            "Tổng điểm XT": "40.25"
+        }
+    },
+    "114250": {
+        "Mã học sinh": "0117071693",
+        "Họ và tên": "Nguyễn Duy Hưng",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "7.75",
+            "Toán": "7.00",
+            "Tổng điểm XT": "35.75"
+        }
+    },
+    "114251": {
+        "Mã học sinh": "0131175651",
+        "Họ và tên": "Nguyễn Quang Hưng",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "3.25",
+            "Toán": "6.25",
+            "Tổng điểm XT": "27.75"
+        }
+    },
+    "114253": {
+        "Mã học sinh": "0117178078",
+        "Họ và tên": "Trần Tuấn Hưng",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "7.00",
+            "Toán": "8.00",
+            "Tổng điểm XT": "36.00"
+        }
+    },
+    "114254": {
+        "Mã học sinh": "0117068589",
+        "Họ và tên": "Lê Thu Hương",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "4.50",
+            "Tổng điểm XT": "26.50"
+        }
+    },
+    "114255": {
+        "Mã học sinh": "0131175659",
+        "Họ và tên": "Nguyễn Dịu Hương",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114257": {
+        "Mã học sinh": "0117072568",
+        "Họ và tên": "Nguyễn Thu Hương",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "8.25",
+            "Toán": "8.50",
+            "Tổng điểm XT": "41.75"
+        }
+    },
+    "114256": {
+        "Mã học sinh": "0117066911",
+        "Họ và tên": "Nguyễn Thị Hương",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "4.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "34.25"
+        }
+    },
+    "114258": {
+        "Mã học sinh": "0117071750",
+        "Họ và tên": "Đặng Thu Hường",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "31.25"
+        }
+    },
+    "114259": {
+        "Mã học sinh": "0131409670",
+        "Họ và tên": "Đỗ Thị Thu Hường",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "4.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "29.75"
+        }
+    },
+    "114260": {
+        "Mã học sinh": "0117068449",
+        "Họ và tên": "Nguyễn Thị Thu Hường",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "5.75",
+            "Toán": "8.00",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114261": {
+        "Mã học sinh": "0131175668",
+        "Họ và tên": "Nguyễn Thị Thu Hường",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "3.00",
+            "Toán": "7.25",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114263": {
+        "Mã học sinh": "0117069194",
+        "Họ và tên": "Nguyễn Tô Bảo Khanh",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "8.25",
+            "Toán": "8.50",
+            "Tổng điểm XT": "41.75"
+        }
+    },
+    "114265": {
+        "Mã học sinh": "0117072081",
+        "Họ và tên": "Lê Nam Khánh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.25",
+            "Toán": "5.50",
+            "Tổng điểm XT": "31.75"
+        }
+    },
+    "114264": {
+        "Mã học sinh": "2668587614",
+        "Họ và tên": "Đỗ Gia Khánh",
+        "Điểm thi": {
+            "Ngữ văn": "KT",
+            "Ngoại ngữ": "KT",
+            "Toán": "KT",
+            "Tổng điểm XT": ""
+        }
+    },
+    "114262": {
+        "Mã học sinh": "0117068494",
+        "Họ và tên": "Nguyễn Thu Hường",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "35.50"
+        }
+    },
+    "114266": {
+        "Mã học sinh": "0133953779",
+        "Họ và tên": "Nguyễn Duy Khánh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "4.50",
+            "Toán": "8.25",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114269": {
+        "Mã học sinh": "0117071661",
+        "Họ và tên": "Nguyễn Mạnh Khôi",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "7.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.25"
+        }
+    },
+    "114268": {
+        "Mã học sinh": "0132260131",
+        "Họ và tên": "Hà Quang Anh Khoa",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.75",
+            "Toán": "7.00",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114270": {
+        "Mã học sinh": "0130549239",
+        "Họ và tên": "Nguyễn Trọng Khôi",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.75"
+        }
+    },
+    "114267": {
+        "Mã học sinh": "0131175670",
+        "Họ và tên": "Đỗ Duy Khải",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "7.25",
+            "Tổng điểm XT": "32.00"
+        }
+    },
+    "114273": {
+        "Mã học sinh": "0117066528",
+        "Họ và tên": "Kiều Trung Kiên",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "4.75",
+            "Toán": "5.25",
+            "Tổng điểm XT": "31.25"
+        }
+    },
+    "114271": {
+        "Mã học sinh": "0117066526",
+        "Họ và tên": "Nguyễn Ngọc Khuê",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "5.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "36.50"
+        }
+    },
+    "114276": {
+        "Mã học sinh": "0117066777",
+        "Họ và tên": "Nguyễn Trí Kiên",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "7.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114272": {
+        "Mã học sinh": "0131175677",
+        "Họ và tên": "Nguyễn Thị Khuyên",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "4.75",
+            "Toán": "8.75",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114274": {
+        "Mã học sinh": "0117067084",
+        "Họ và tên": "Lưu Trung Kiên",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "3.75",
+            "Toán": "7.25",
+            "Tổng điểm XT": "33.25"
+        }
+    },
+    "114275": {
+        "Mã học sinh": "0117067051",
+        "Họ và tên": "Lưu Xuân Kiên",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "5.00",
+            "Toán": "7.25",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114277": {
+        "Mã học sinh": "0117069165",
+        "Họ và tên": "Trần Văn Kiên",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "5.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "33.75"
+        }
+    },
+    "114278": {
+        "Mã học sinh": "0117069019",
+        "Họ và tên": "Kiều Phương Lan",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "38.50"
+        }
+    },
+    "114279": {
+        "Mã học sinh": "0117066775",
+        "Họ và tên": "Nguyễn Thị Lan",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "3.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114281": {
+        "Mã học sinh": "0131175680",
+        "Họ và tên": "Nguyễn Thị Hoa Lan",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "5.25",
+            "Toán": "6.50",
+            "Tổng điểm XT": "30.75"
+        }
+    },
+    "114280": {
+        "Mã học sinh": "0117760672",
+        "Họ và tên": "Nguyễn Thị Lan",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "3.00",
+            "Toán": "6.75",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114282": {
+        "Mã học sinh": "0117068140",
+        "Họ và tên": "Nguyễn Thị Ngọc Lan",
+        "Điểm thi": {
+            "Ngữ văn": "4.50",
+            "Ngoại ngữ": "3.00",
+            "Toán": "5.00",
+            "Tổng điểm XT": "22.00"
+        }
+    },
+    "114283": {
+        "Mã học sinh": "0131409671",
+        "Họ và tên": "Dương Thị Mai Linh",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "5.00",
+            "Toán": "6.50",
+            "Tổng điểm XT": "28.00"
+        }
+    },
+    "114284": {
+        "Mã học sinh": "0117069196",
+        "Họ và tên": "Đào Thị Thùy Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "4.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114292": {
+        "Mã học sinh": "0137582980",
+        "Họ và tên": "Lê Phương Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114285": {
+        "Mã học sinh": "0117071788",
+        "Họ và tên": "Đặng Nhật Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "4.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.25"
+        }
+    },
+    "114286": {
+        "Mã học sinh": "0117072850",
+        "Họ và tên": "Đinh Thu Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "5.25",
+            "Toán": "8.75",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114287": {
+        "Mã học sinh": "0117066495",
+        "Họ và tên": "Đỗ Khánh Linh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "5.25",
+            "Toán": "8.75",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114288": {
+        "Mã học sinh": "0117072044",
+        "Họ và tên": "Đỗ Ngọc Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.50",
+            "Toán": "8.50",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114290": {
+        "Mã học sinh": "0134486937",
+        "Họ và tên": "Hoàng Diệu Linh",
+        "Điểm thi": {
+            "Ngữ văn": "4.00",
+            "Ngoại ngữ": "5.25",
+            "Toán": "4.50",
+            "Tổng điểm XT": "22.25"
+        }
+    },
+    "114289": {
+        "Mã học sinh": "0117073907",
+        "Họ và tên": "Đỗ Trần Phương Linh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "10.0",
+            "Toán": "8.75",
+            "Tổng điểm XT": "43.50"
+        }
+    },
+    "114291": {
+        "Mã học sinh": "0131175685",
+        "Họ và tên": "Lê Khánh Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114293": {
+        "Mã học sinh": "0117066900",
+        "Họ và tên": "Lê Thị Diệu Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.50",
+            "Toán": "6.00",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114298": {
+        "Mã học sinh": "0131175687",
+        "Họ và tên": "Nguyễn Khánh Linh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "7.75",
+            "Toán": "7.00",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114294": {
+        "Mã học sinh": "0117069021",
+        "Họ và tên": "Lưu Phương Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "3.25",
+            "Toán": "5.25",
+            "Tổng điểm XT": "28.25"
+        }
+    },
+    "114295": {
+        "Mã học sinh": "0117068309",
+        "Họ và tên": "Lưu Thị Diệu Linh",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "9.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "45.00"
+        }
+    },
+    "114296": {
+        "Mã học sinh": "0117073909",
+        "Họ và tên": "Nguyễn Diệu Linh",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "3.75",
+            "Toán": "7.75",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114297": {
+        "Mã học sinh": "0117068226",
+        "Họ và tên": "Nguyễn Gia Linh",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "5.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "31.25"
+        }
+    },
+    "114302": {
+        "Mã học sinh": "0117067987",
+        "Họ và tên": "Nguyễn Thị Linh",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "31.00"
+        }
+    },
+    "114299": {
+        "Mã học sinh": "0131409673",
+        "Họ và tên": "Nguyễn Khánh Linh",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "9.50",
+            "Toán": "9.25",
+            "Tổng điểm XT": "45.50"
+        }
+    },
+    "114300": {
+        "Mã học sinh": "0117067173",
+        "Họ và tên": "Nguyễn Kiều Mai Linh",
+        "Điểm thi": {
+            "Ngữ văn": "4.75",
+            "Ngoại ngữ": "4.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "31.50"
+        }
+    },
+    "114304": {
+        "Mã học sinh": "0117067988",
+        "Họ và tên": "Nguyễn Thị Diệu Linh",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "4.25",
+            "Toán": "6.50",
+            "Tổng điểm XT": "29.75"
+        }
+    },
+    "114301": {
+        "Mã học sinh": "0117072878",
+        "Họ và tên": "Nguyễn Ngọc Khánh Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "4.25",
+            "Toán": "6.50",
+            "Tổng điểm XT": "32.25"
+        }
+    },
+    "114303": {
+        "Mã học sinh": "0117072022",
+        "Họ và tên": "Nguyễn Thị Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "36.50"
+        }
+    },
+    "114307": {
+        "Mã học sinh": "0117067990",
+        "Họ và tên": "Nguyễn Thùy Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "2.75",
+            "Toán": "7.75",
+            "Tổng điểm XT": "32.25"
+        }
+    },
+    "114305": {
+        "Mã học sinh": "0137547088",
+        "Họ và tên": "Nguyễn Thị Khánh Linh",
+        "Điểm thi": {
+            "Ngữ văn": "3.00",
+            "Ngoại ngữ": "2.00",
+            "Toán": "1.75",
+            "Tổng điểm XT": "11.50"
+        }
+    },
+    "114306": {
+        "Mã học sinh": "0117066752",
+        "Họ và tên": "Nguyễn Thị Thùy Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "4.25",
+            "Toán": "8.00",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114309": {
+        "Mã học sinh": "0131175688",
+        "Họ và tên": "Nguyễn Thùy Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "4.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "34.00"
+        }
+    },
+    "114310": {
+        "Mã học sinh": "0144648143",
+        "Họ và tên": "Phạm Khánh Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "7.25",
+            "Toán": "7.75",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114308": {
+        "Mã học sinh": "0117068977",
+        "Họ và tên": "Nguyễn Thùy Linh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "6.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "34.75"
+        }
+    },
+    "114311": {
+        "Mã học sinh": "0117072554",
+        "Họ và tên": "Phạm Thùy Linh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "9.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "43.00"
+        }
+    },
+    "114312": {
+        "Mã học sinh": "0131175689",
+        "Họ và tên": "Trần Thùy Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "4.25",
+            "Toán": "7.25",
+            "Tổng điểm XT": "32.75"
+        }
+    },
+    "114314": {
+        "Mã học sinh": "0131175691",
+        "Họ và tên": "Nguyễn Khánh Loan",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "8.25",
+            "Toán": "9.25",
+            "Tổng điểm XT": "43.75"
+        }
+    },
+    "114315": {
+        "Mã học sinh": "0117069198",
+        "Họ và tên": "Đỗ Gia Long",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "6.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114313": {
+        "Mã học sinh": "0117068410",
+        "Họ và tên": "Vũ Nhật Hồng Linh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.50",
+            "Toán": "1.50",
+            "Tổng điểm XT": "24.00"
+        }
+    },
+    "114316": {
+        "Mã học sinh": "0117068382",
+        "Họ và tên": "Nguyễn Huy Long",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "35.50"
+        }
+    },
+    "114321": {
+        "Mã học sinh": "0144209678",
+        "Họ và tên": "Nguyên Thị Xuân Lộc",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.00",
+            "Tổng điểm XT": "34.25"
+        }
+    },
+    "114317": {
+        "Mã học sinh": "0117067959",
+        "Họ và tên": "Nguyễn Hữu Long",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "3.00",
+            "Toán": "6.75",
+            "Tổng điểm XT": "28.00"
+        }
+    },
+    "114320": {
+        "Mã học sinh": "0117072556",
+        "Họ và tên": "Tạ Quang Long",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.50",
+            "Toán": "5.25",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114318": {
+        "Mã học sinh": "0131175693",
+        "Họ và tên": "Nguyễn Phi Long",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "4.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "28.50"
+        }
+    },
+    "114319": {
+        "Mã học sinh": "0131409677",
+        "Họ và tên": "Phùng Minh Long",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "5.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "35.75"
+        }
+    },
+    "114322": {
+        "Mã học sinh": "0117067074",
+        "Họ và tên": "Nguyễn Hiền Lương",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "9.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.75"
+        }
+    },
+    "114324": {
+        "Mã học sinh": "0136993333",
+        "Họ và tên": "Kiều Khánh Ly",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "5.00",
+            "Toán": "4.50",
+            "Tổng điểm XT": "24.00"
+        }
+    },
+    "114325": {
+        "Mã học sinh": "0117069161",
+        "Họ và tên": "Lê Khánh Ly",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114323": {
+        "Mã học sinh": "0117069200",
+        "Họ và tên": "Hoàng Cẩm Ly",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114328": {
+        "Mã học sinh": "0117072558",
+        "Họ và tên": "Nguyễn Hương Ly",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "3.75",
+            "Toán": "6.00",
+            "Tổng điểm XT": "28.75"
+        }
+    },
+    "114327": {
+        "Mã học sinh": "0117067125",
+        "Họ và tên": "Nguyễn Cẩm Ly",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114326": {
+        "Mã học sinh": "0117073913",
+        "Họ và tên": "Lê Mầu Trúc Ly",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.50",
+            "Toán": "8.00",
+            "Tổng điểm XT": "36.50"
+        }
+    },
+    "114329": {
+        "Mã học sinh": "0117072560",
+        "Họ và tên": "Nguyễn Hương Ly",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "5.25",
+            "Toán": "6.00",
+            "Tổng điểm XT": "31.25"
+        }
+    },
+    "114332": {
+        "Mã học sinh": "0117069013",
+        "Họ và tên": "Phùng Thị Khánh Ly",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "7.75",
+            "Toán": "6.50",
+            "Tổng điểm XT": "33.25"
+        }
+    },
+    "114331": {
+        "Mã học sinh": "0117072618",
+        "Họ và tên": "Phạm Cẩm Ly",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "3.25",
+            "Toán": "2.75",
+            "Tổng điểm XT": "18.75"
+        }
+    },
+    "114334": {
+        "Mã học sinh": "0133213951",
+        "Họ và tên": "Hoàng Thúy Mai",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "4.00",
+            "Toán": "7.00",
+            "Tổng điểm XT": "32.00"
+        }
+    },
+    "114333": {
+        "Mã học sinh": "0117073915",
+        "Họ và tên": "Đỗ Xuân Mai",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "8.25",
+            "Toán": "6.75",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114330": {
+        "Mã học sinh": "0117068989",
+        "Họ và tên": "Nguyễn Thị Cẩm Ly",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "7.75",
+            "Toán": "8.75",
+            "Tổng điểm XT": "41.25"
+        }
+    },
+    "114335": {
+        "Mã học sinh": "0117069202",
+        "Họ và tên": "Lê Thị Hồng Mai",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.25"
+        }
+    },
+    "114340": {
+        "Mã học sinh": "0117068969",
+        "Họ và tên": "Phùng Thị Tuyết Mai",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "8.50",
+            "Toán": "5.75",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114338": {
+        "Mã học sinh": "0117068142",
+        "Họ và tên": "Nguyễn Thị Mai",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "7.50",
+            "Toán": "7.25",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114337": {
+        "Mã học sinh": "0117072608",
+        "Họ và tên": "Lưu Phương Mai",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "8.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114336": {
+        "Mã học sinh": "0117069218",
+        "Họ và tên": "Lê Xuân Mai",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "8.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "43.25"
+        }
+    },
+    "114339": {
+        "Mã học sinh": "0117072562",
+        "Họ và tên": "Phạm Tuyết Mai",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.75",
+            "Toán": "8.50",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114345": {
+        "Mã học sinh": "0117067961",
+        "Họ và tên": "Phùng Đình Mạnh",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "6.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "32.75"
+        }
+    },
+    "114344": {
+        "Mã học sinh": "0117068106",
+        "Họ và tên": "Nguyễn Hữu Mạnh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.50",
+            "Toán": "7.00",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114341": {
+        "Mã học sinh": "0131409680",
+        "Họ và tên": "Đèo Phương May",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.50"
+        }
+    },
+    "114342": {
+        "Mã học sinh": "0131175700",
+        "Họ và tên": "Bùi Thế Mạnh",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "8.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.50"
+        }
+    },
+    "114343": {
+        "Mã học sinh": "0117069015",
+        "Họ và tên": "Lưu Văn Mạnh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.00"
+        }
+    },
+    "114346": {
+        "Mã học sinh": "0117068971",
+        "Họ và tên": "Phùng Minh Mạnh",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "5.00",
+            "Toán": "6.25",
+            "Tổng điểm XT": "28.50"
+        }
+    },
+    "114347": {
+        "Mã học sinh": "0117066756",
+        "Họ và tên": "Trương Đức Mạnh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "4.25",
+            "Toán": "7.00",
+            "Tổng điểm XT": "33.75"
+        }
+    },
+    "114348": {
+        "Mã học sinh": "0131177908",
+        "Họ và tên": "Bùi Thị Trà Mi",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.75",
+            "Toán": "5.75",
+            "Tổng điểm XT": "34.75"
+        }
+    },
+    "114349": {
+        "Mã học sinh": "0117072620",
+        "Họ và tên": "Nguyễn Anh Minh",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "3.50",
+            "Toán": "6.00",
+            "Tổng điểm XT": "27.50"
+        }
+    },
+    "114351": {
+        "Mã học sinh": "0117073938",
+        "Họ và tên": "Phạm Thị Khánh Minh",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.75",
+            "Toán": "6.75",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114350": {
+        "Mã học sinh": "0117068461",
+        "Họ và tên": "Nguyễn Tuấn Minh",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "7.00",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114352": {
+        "Mã học sinh": "0117067101",
+        "Họ và tên": "Sái Văn Minh",
+        "Điểm thi": {
+            "Ngữ văn": "1.75",
+            "Ngoại ngữ": "1.50",
+            "Toán": "1.50",
+            "Tổng điểm XT": "8.00"
+        }
+    },
+    "114354": {
+        "Mã học sinh": "0131175703",
+        "Họ và tên": "Lê Trà My",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "8.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.50"
+        }
+    },
+    "114356": {
+        "Mã học sinh": "0131409681",
+        "Họ và tên": "Nguyễn Đặng Trà My",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "7.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.75"
+        }
+    },
+    "114355": {
+        "Mã học sinh": "0117066836",
+        "Họ và tên": "Lỗ Thị Thảo My",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114358": {
+        "Mã học sinh": "0131409682",
+        "Họ và tên": "Nguyễn Trà My",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "4.75",
+            "Toán": "4.00",
+            "Tổng điểm XT": "23.25"
+        }
+    },
+    "114357": {
+        "Mã học sinh": "0144648148",
+        "Họ và tên": "Nguyễn Thị Trà My",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "4.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114353": {
+        "Mã học sinh": "0131184276",
+        "Họ và tên": "Trương Tuệ Minh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "6.25",
+            "Toán": "4.25",
+            "Tổng điểm XT": "28.25"
+        }
+    },
+    "114359": {
+        "Mã học sinh": "0131175705",
+        "Họ và tên": "Phan Thị Huyền My",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "4.00",
+            "Toán": "6.25",
+            "Tổng điểm XT": "28.50"
+        }
+    },
+    "114362": {
+        "Mã học sinh": "0117068108",
+        "Họ và tên": "Nguyễn Duy Nam",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "4.25",
+            "Toán": "6.50",
+            "Tổng điểm XT": "28.25"
+        }
+    },
+    "114361": {
+        "Mã học sinh": "0131184247",
+        "Họ và tên": "Lưu Hải Nam",
+        "Điểm thi": {
+            "Ngữ văn": "2.50",
+            "Ngoại ngữ": "2.50",
+            "Toán": "0.50",
+            "Tổng điểm XT": "8.50"
+        }
+    },
+    "114360": {
+        "Mã học sinh": "0117069158",
+        "Họ và tên": "Vũ Thị Trà My",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.00"
+        }
+    },
+    "114366": {
+        "Mã học sinh": "0117067073",
+        "Họ và tên": "Nguyễn Thúy Nga",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "5.00",
+            "Toán": "7.25",
+            "Tổng điểm XT": "32.00"
+        }
+    },
+    "114365": {
+        "Mã học sinh": "0117072564",
+        "Họ và tên": "Nguyễn Thị Thu Nga",
+        "Điểm thi": {
+            "Ngữ văn": "6.58",
+            "Ngoại ngữ": "5.00",
+            "Toán": "8.00",
+            "Tổng điểm XT": "34.16"
+        }
+    },
+    "114363": {
+        "Mã học sinh": "0117068274",
+        "Họ và tên": "Nguyễn Hoài Nam",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "9.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "43.00"
+        }
+    },
+    "114364": {
+        "Mã học sinh": "0117069017",
+        "Họ và tên": "Phạm Hoài Nam",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "3.25",
+            "Toán": "5.25",
+            "Tổng điểm XT": "27.25"
+        }
+    },
+    "114370": {
+        "Mã học sinh": "0117071792",
+        "Họ và tên": "Nguyễn Thị Kim Ngân",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "36.50"
+        }
+    },
+    "114369": {
+        "Mã học sinh": "0144209684",
+        "Họ và tên": "Nguyễn Phương Ngân",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "8.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.25"
+        }
+    },
+    "114371": {
+        "Mã học sinh": "0117760686",
+        "Họ và tên": "Nguyễn Đạt Nghĩa",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114373": {
+        "Mã học sinh": "0131175712",
+        "Họ và tên": "Nguyễn Ánh Ngọc",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "5.00",
+            "Toán": "6.50",
+            "Tổng điểm XT": "30.00"
+        }
+    },
+    "114367": {
+        "Mã học sinh": "0132260010",
+        "Họ và tên": "Trần Thị Nga",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "8.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "38.50"
+        }
+    },
+    "114372": {
+        "Mã học sinh": "0150530721",
+        "Họ và tên": "Đỗ Thị Bích Ngọc",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "8.50",
+            "Toán": "7.00",
+            "Tổng điểm XT": "38.50"
+        }
+    },
+    "114368": {
+        "Mã học sinh": "0150530720",
+        "Họ và tên": "Đỗ Thị Kim Ngân",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "5.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "30.50"
+        }
+    },
+    "114374": {
+        "Mã học sinh": "0131175713",
+        "Họ và tên": "Nguyễn Thị Bích Ngọc",
+        "Điểm thi": {
+            "Ngữ văn": "4.00",
+            "Ngoại ngữ": "2.75",
+            "Toán": "6.75",
+            "Tổng điểm XT": "24.25"
+        }
+    },
+    "114377": {
+        "Mã học sinh": "0117068469",
+        "Họ và tên": "Kiều Minh Nguyệt",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "4.00",
+            "Toán": "7.00",
+            "Tổng điểm XT": "30.50"
+        }
+    },
+    "114379": {
+        "Mã học sinh": "0131175715",
+        "Họ và tên": "Bùi Khánh Nhi",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.50",
+            "Tổng điểm XT": "38.50"
+        }
+    },
+    "114376": {
+        "Mã học sinh": "0117073891",
+        "Họ và tên": "Kiều Thảo Nguyên",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "7.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114383": {
+        "Mã học sinh": "0117068110",
+        "Họ và tên": "Nguyễn Thị Yến Nhi",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.50",
+            "Toán": "6.25",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114378": {
+        "Mã học sinh": "0150530722",
+        "Họ và tên": "Nguyễn Thị Phương Nhài",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "5.75",
+            "Toán": "6.75",
+            "Tổng điểm XT": "32.75"
+        }
+    },
+    "114381": {
+        "Mã học sinh": "0167802604",
+        "Họ và tên": "Hoàng Yến Nhi",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.75",
+            "Toán": "6.25",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114375": {
+        "Mã học sinh": "0117066931",
+        "Họ và tên": "Phan Thị Ánh Ngọc",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "5.25",
+            "Toán": "7.25",
+            "Tổng điểm XT": "30.75"
+        }
+    },
+    "114380": {
+        "Mã học sinh": "0134486939",
+        "Họ và tên": "Bùi Thị Yến Nhi",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.75",
+            "Toán": "7.00",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114382": {
+        "Mã học sinh": "0117067023",
+        "Họ và tên": "Lưu Thị Yến Nhi",
+        "Điểm thi": {
+            "Ngữ văn": "5.08",
+            "Ngoại ngữ": "6.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "30.16"
+        }
+    },
+    "114385": {
+        "Mã học sinh": "0117066871",
+        "Họ và tên": "Trần Lê Yến Nhi",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "7.00",
+            "Toán": "8.00",
+            "Tổng điểm XT": "37.00"
+        }
+    },
+    "114386": {
+        "Mã học sinh": "0117069097",
+        "Họ và tên": "Đỗ Tuyết Nhung",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.25"
+        }
+    },
+    "114387": {
+        "Mã học sinh": "0117068112",
+        "Họ và tên": "Nguyễn Thị Hồng Nhung",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "7.75",
+            "Toán": "8.00",
+            "Tổng điểm XT": "38.25"
+        }
+    },
+    "114384": {
+        "Mã học sinh": "0117068406",
+        "Họ và tên": "Nguyễn Thị Yến Nhi",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "7.25",
+            "Toán": "6.75",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114391": {
+        "Mã học sinh": "0133213950",
+        "Họ và tên": "Kiều Quỳnh Như",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "5.25",
+            "Toán": "6.25",
+            "Tổng điểm XT": "30.25"
+        }
+    },
+    "114390": {
+        "Mã học sinh": "0150530724",
+        "Họ và tên": "Nguyễn Tuyết Nhung",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.50",
+            "Toán": "8.50",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114389": {
+        "Mã học sinh": "0131175716",
+        "Họ và tên": "Nguyễn Tuyết Nhung",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "5.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.25"
+        }
+    },
+    "114392": {
+        "Mã học sinh": "0117067071",
+        "Họ và tên": "Lưu Thuý Ninh",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "5.50",
+            "Toán": "3.75",
+            "Tổng điểm XT": "24.00"
+        }
+    },
+    "114393": {
+        "Mã học sinh": "0117071744",
+        "Họ và tên": "Nguyễn Thị Kim Oanh",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "5.75",
+            "Toán": "5.50",
+            "Tổng điểm XT": "27.25"
+        }
+    },
+    "114388": {
+        "Mã học sinh": "0117066545",
+        "Họ và tên": "Nguyễn Thị Phương Nhung",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "6.50",
+            "Toán": "8.00",
+            "Tổng điểm XT": "38.50"
+        }
+    },
+    "114396": {
+        "Mã học sinh": "0132260135",
+        "Họ và tên": "Phùng Đình Phát",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "8.75",
+            "Toán": "8.75",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114395": {
+        "Mã học sinh": "0144209689",
+        "Họ và tên": "Vũ Kiều Oanh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "6.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114394": {
+        "Mã học sinh": "0131409686",
+        "Họ và tên": "Nguyễn Thị Kim Oanh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "4.75",
+            "Toán": "7.00",
+            "Tổng điểm XT": "32.25"
+        }
+    },
+    "114399": {
+        "Mã học sinh": "0117069731",
+        "Họ và tên": "Vũ Duy Phong",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "5.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "36.50"
+        }
+    },
+    "114397": {
+        "Mã học sinh": "0117067113",
+        "Họ và tên": "Đặng Quang Phong",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "4.50",
+            "Toán": "6.50",
+            "Tổng điểm XT": "27.50"
+        }
+    },
+    "114398": {
+        "Mã học sinh": "0117067131",
+        "Họ và tên": "Lưu Anh Phong",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "6.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "33.25"
+        }
+    },
+    "114400": {
+        "Mã học sinh": "0150530345",
+        "Họ và tên": "Nguyễn Công Phú",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "5.75",
+            "Toán": "8.00",
+            "Tổng điểm XT": "35.75"
+        }
+    },
+    "114401": {
+        "Mã học sinh": "0117072028",
+        "Họ và tên": "Đinh Xuân Phúc",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "5.00",
+            "Toán": "5.50",
+            "Tổng điểm XT": "30.00"
+        }
+    },
+    "114402": {
+        "Mã học sinh": "0117069188",
+        "Họ và tên": "Lê Thị Minh Phương",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "9.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "44.00"
+        }
+    },
+    "114403": {
+        "Mã học sinh": "0117072622",
+        "Họ và tên": "Nguyễn Hồng Phương",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "6.50",
+            "Toán": "7.25",
+            "Tổng điểm XT": "38.50"
+        }
+    },
+    "114408": {
+        "Mã học sinh": "0131409688",
+        "Họ và tên": "Trần Minh Phương",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "9.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114404": {
+        "Mã học sinh": "0131409687",
+        "Họ và tên": "Nguyễn Thị Lan Phương",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114407": {
+        "Mã học sinh": "0132260137",
+        "Họ và tên": "Trần Duy Phương",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "4.25",
+            "Toán": "8.75",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114410": {
+        "Mã học sinh": "0130537161",
+        "Họ và tên": "Trần Thị Phương",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114409": {
+        "Mã học sinh": "0130518739",
+        "Họ và tên": "Trần Thanh Phương",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114405": {
+        "Mã học sinh": "0117072540",
+        "Họ và tên": "Nguyễn Thị Thu Phương",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "7.50",
+            "Toán": "8.00",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114411": {
+        "Mã học sinh": "0130528697",
+        "Họ và tên": "Trần Văn Phương",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "6.75",
+            "Toán": "8.75",
+            "Tổng điểm XT": "40.75"
+        }
+    },
+    "114406": {
+        "Mã học sinh": "7914395323",
+        "Họ và tên": "Phạm Bích Phương",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114413": {
+        "Mã học sinh": "0131409689",
+        "Họ và tên": "Đỗ Trung Quang",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "6.25",
+            "Toán": "4.50",
+            "Tổng điểm XT": "30.25"
+        }
+    },
+    "114414": {
+        "Mã học sinh": "0148761797",
+        "Họ và tên": "Lê Thành Quang",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "6.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "34.00"
+        }
+    },
+    "114412": {
+        "Mã học sinh": "0117071667",
+        "Họ và tên": "Đoàn Vũ Quang",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "8.25",
+            "Toán": "8.50",
+            "Tổng điểm XT": "40.25"
+        }
+    },
+    "114415": {
+        "Mã học sinh": "0117068198",
+        "Họ và tên": "Lưu Duy Quang",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "5.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "35.25"
+        }
+    },
+    "114416": {
+        "Mã học sinh": "0117068999",
+        "Họ và tên": "Lưu Hồng Quang",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "7.00",
+            "Toán": "8.50",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114418": {
+        "Mã học sinh": "0159376225",
+        "Họ và tên": "Nguyễn Minh Quân",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "7.25",
+            "Toán": "6.00",
+            "Tổng điểm XT": "33.25"
+        }
+    },
+    "114419": {
+        "Mã học sinh": "0150530725",
+        "Họ và tên": "Nguyễn Thế Quân",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "7.00",
+            "Toán": "7.00",
+            "Tổng điểm XT": "33.00"
+        }
+    },
+    "114421": {
+        "Mã học sinh": "0117068200",
+        "Họ và tên": "Nguyễn Văn Quân",
+        "Điểm thi": {
+            "Ngữ văn": "4.50",
+            "Ngoại ngữ": "5.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "32.00"
+        }
+    },
+    "114417": {
+        "Mã học sinh": "1050179191",
+        "Họ và tên": "Nguyễn Anh Quân",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "8.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114420": {
+        "Mã học sinh": "0117067025",
+        "Họ và tên": "Nguyễn Văn Quân",
+        "Điểm thi": {
+            "Ngữ văn": "3.25",
+            "Ngoại ngữ": "5.25",
+            "Toán": "7.50",
+            "Tổng điểm XT": "26.75"
+        }
+    },
+    "114422": {
+        "Mã học sinh": "0117071754",
+        "Họ và tên": "Vũ Trần Bảo Quốc",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "8.50",
+            "Toán": "6.50",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114423": {
+        "Mã học sinh": "0117068250",
+        "Họ và tên": "Đặng Tú Quyên",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "5.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "29.50"
+        }
+    },
+    "114426": {
+        "Mã học sinh": "0117072974",
+        "Họ và tên": "Nguyễn Hồng Quyên",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "3.50",
+            "Toán": "7.00",
+            "Tổng điểm XT": "32.50"
+        }
+    },
+    "114425": {
+        "Mã học sinh": "0117068146",
+        "Họ và tên": "Đỗ Nhật Quyên",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "37.75"
+        }
+    },
+    "114424": {
+        "Mã học sinh": "0117066759",
+        "Họ và tên": "Đinh Lệ Quyên",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "4.50",
+            "Toán": "4.25",
+            "Tổng điểm XT": "23.00"
+        }
+    },
+    "114427": {
+        "Mã học sinh": "0117072030",
+        "Họ và tên": "Nguyễn Thị Lệ Quyên",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "3.75",
+            "Toán": "5.25",
+            "Tổng điểm XT": "29.75"
+        }
+    },
+    "114428": {
+        "Mã học sinh": "0117072624",
+        "Họ và tên": "Nguyễn Thị Lệ Quyên",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "6.50",
+            "Toán": "7.00",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114431": {
+        "Mã học sinh": "0117068560",
+        "Họ và tên": "Nguyễn Đình Quyết",
+        "Điểm thi": {
+            "Ngữ văn": "4.50",
+            "Ngoại ngữ": "4.00",
+            "Toán": "4.00",
+            "Tổng điểm XT": "21.00"
+        }
+    },
+    "114429": {
+        "Mã học sinh": "0117068222",
+        "Họ và tên": "Nguyễn Thu Quyên",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.75"
+        }
+    },
+    "114432": {
+        "Mã học sinh": "0132260138",
+        "Họ và tên": "Nguyễn Quang Quyền",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.75"
+        }
+    },
+    "114433": {
+        "Mã học sinh": "0168594599",
+        "Họ và tên": "Nguyễn Phú Quý",
+        "Điểm thi": {
+            "Ngữ văn": "3.75",
+            "Ngoại ngữ": "8.75",
+            "Toán": "8.50",
+            "Tổng điểm XT": "33.25"
+        }
+    },
+    "114430": {
+        "Mã học sinh": "0117067969",
+        "Họ và tên": "Phùng Tú Quyên",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "5.50",
+            "Toán": "8.00",
+            "Tổng điểm XT": "36.00"
+        }
+    },
+    "114434": {
+        "Mã học sinh": "0117068144",
+        "Họ và tên": "Nguyễn Văn Quý",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "5.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114437": {
+        "Mã học sinh": "0144209699",
+        "Họ và tên": "Đỗ Thị Như Quỳnh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114436": {
+        "Mã học sinh": "0134486940",
+        "Họ và tên": "Bùi Thị Xuân Quỳnh",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "6.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "32.50"
+        }
+    },
+    "114438": {
+        "Mã học sinh": "0117067133",
+        "Họ và tên": "Lưu Thị Quỳnh",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "5.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114439": {
+        "Mã học sinh": "0117068472",
+        "Họ và tên": "Lưu Thị Như Quỳnh",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "4.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "32.50"
+        }
+    },
+    "114440": {
+        "Mã học sinh": "0131409694",
+        "Họ và tên": "Nguyễn Thị Như Quỳnh",
+        "Điểm thi": {
+            "Ngữ văn": "4.50",
+            "Ngoại ngữ": "3.50",
+            "Toán": "2.25",
+            "Tổng điểm XT": "17.00"
+        }
+    },
+    "114435": {
+        "Mã học sinh": "0117069208",
+        "Họ và tên": "Bùi Nguyễn Như Quỳnh",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114442": {
+        "Mã học sinh": "0117069210",
+        "Họ và tên": "Đỗ Trường Sơn",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.25"
+        }
+    },
+    "114445": {
+        "Mã học sinh": "0158183597",
+        "Họ và tên": "Tạ Phùng Chung Sơn",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "6.25",
+            "Toán": "6.25",
+            "Tổng điểm XT": "29.25"
+        }
+    },
+    "114444": {
+        "Mã học sinh": "0117066902",
+        "Họ và tên": "Lỗ Văn Sơn",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "7.00",
+            "Toán": "8.50",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114447": {
+        "Mã học sinh": "0150530355",
+        "Họ và tên": "Nguyễn Đức Tài",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114441": {
+        "Mã học sinh": "0117067142",
+        "Họ và tên": "Lưu Quang Sáng",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "4.25",
+            "Toán": "6.00",
+            "Tổng điểm XT": "26.25"
+        }
+    },
+    "114443": {
+        "Mã học sinh": "0117072532",
+        "Họ và tên": "Hoàng Bảo Sơn",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "4.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "33.75"
+        }
+    },
+    "114446": {
+        "Mã học sinh": "0117068102",
+        "Họ và tên": "Nguyễn Đình Tài",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "6.50",
+            "Toán": "8.25",
+            "Tổng điểm XT": "35.50"
+        }
+    },
+    "114450": {
+        "Mã học sinh": "0117069003",
+        "Họ và tên": "Bùi Thị Thanh",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114451": {
+        "Mã học sinh": "0117066761",
+        "Họ và tên": "Đinh Xuân Thái",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "4.75",
+            "Toán": "8.50",
+            "Tổng điểm XT": "37.25"
+        }
+    },
+    "114448": {
+        "Mã học sinh": "0131409695",
+        "Họ và tên": "Phùng Viết Tài",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "7.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114452": {
+        "Mã học sinh": "0117068000",
+        "Họ và tên": "Lưu Tiến Thành",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "4.50",
+            "Toán": "4.25",
+            "Tổng điểm XT": "24.50"
+        }
+    },
+    "114449": {
+        "Mã học sinh": "0117066510",
+        "Họ và tên": "Nguyễn Hồng Tâm",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "7.25",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114454": {
+        "Mã học sinh": "0131175735",
+        "Họ và tên": "Nguyễn Tiến Thành",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "4.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114455": {
+        "Mã học sinh": "0117072593",
+        "Họ và tên": "Dương Thu Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "8.50",
+            "Toán": "8.50",
+            "Tổng điểm XT": "39.00"
+        }
+    },
+    "114456": {
+        "Mã học sinh": "0117072280",
+        "Họ và tên": "Hoàng Thị Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "4.75",
+            "Ngoại ngữ": "8.25",
+            "Toán": "7.25",
+            "Tổng điểm XT": "32.25"
+        }
+    },
+    "114453": {
+        "Mã học sinh": "0117072018",
+        "Họ và tên": "Nguyễn Phú Thành",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.25",
+            "Toán": "8.00",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114459": {
+        "Mã học sinh": "0131175738",
+        "Họ và tên": "Lê Vũ Phương Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "3.50",
+            "Toán": "5.75",
+            "Tổng điểm XT": "25.50"
+        }
+    },
+    "114457": {
+        "Mã học sinh": "0134486941",
+        "Họ và tên": "Kiều Vũ Hồng Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "8.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "43.00"
+        }
+    },
+    "114466": {
+        "Mã học sinh": "0134486942",
+        "Họ và tên": "Nguyễn Thị Thanh Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "5.00",
+            "Toán": "3.50",
+            "Tổng điểm XT": "22.50"
+        }
+    },
+    "114461": {
+        "Mã học sinh": "0131175739",
+        "Họ và tên": "Nguyễn Phương Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "5.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.00"
+        }
+    },
+    "114462": {
+        "Mã học sinh": "0131175740",
+        "Họ và tên": "Nguyễn Thị Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "6.25",
+            "Toán": "8.75",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114458": {
+        "Mã học sinh": "0131175737",
+        "Họ và tên": "Lê Phương Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "4.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114463": {
+        "Mã học sinh": "0131184282",
+        "Họ và tên": "Nguyễn Thị Phương Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "9.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.25"
+        }
+    },
+    "114460": {
+        "Mã học sinh": "0117068425",
+        "Họ và tên": "Lưu Phương Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "7.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "38.50"
+        }
+    },
+    "114464": {
+        "Mã học sinh": "0117068551",
+        "Họ và tên": "Nguyễn Thị Thanh Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.50",
+            "Toán": "7.00",
+            "Tổng điểm XT": "36.00"
+        }
+    },
+    "114467": {
+        "Mã học sinh": "0117068949",
+        "Họ và tên": "Nguyễn Quốc Thắng",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "3.75",
+            "Toán": "5.25",
+            "Tổng điểm XT": "26.25"
+        }
+    },
+    "114469": {
+        "Mã học sinh": "0117072483",
+        "Họ và tên": "Nguyễn Văn Thắng",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "2.50",
+            "Toán": "6.00",
+            "Tổng điểm XT": "28.00"
+        }
+    },
+    "114465": {
+        "Mã học sinh": "0117073944",
+        "Họ và tên": "Nguyễn Thị Thanh Thảo",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "8.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.75"
+        }
+    },
+    "114468": {
+        "Mã học sinh": "0117066685",
+        "Họ và tên": "Nguyễn Tiến Thắng",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "3.75",
+            "Toán": "5.75",
+            "Tổng điểm XT": "30.25"
+        }
+    },
+    "114470": {
+        "Mã học sinh": "0131409698",
+        "Họ và tên": "Phùng Minh Thắng",
+        "Điểm thi": {
+            "Ngữ văn": "4.00",
+            "Ngoại ngữ": "2.75",
+            "Toán": "6.50",
+            "Tổng điểm XT": "23.75"
+        }
+    },
+    "114476": {
+        "Mã học sinh": "0117067145",
+        "Họ và tên": "Lưu Thị Thanh Thu",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "3.00",
+            "Toán": "6.25",
+            "Tổng điểm XT": "25.50"
+        }
+    },
+    "114472": {
+        "Mã học sinh": "0144209707",
+        "Họ và tên": "Đặng Nguyễn Chế Thiện",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "5.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "32.75"
+        }
+    },
+    "114471": {
+        "Mã học sinh": "0117072626",
+        "Họ và tên": "Kiều Văn Thế",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "7.50",
+            "Toán": "8.50",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114473": {
+        "Mã học sinh": "0117068252",
+        "Họ và tên": "Nguyễn Minh Thiệp",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "4.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114475": {
+        "Mã học sinh": "0117072597",
+        "Họ và tên": "Nguyễn Tiến Thịnh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "7.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114474": {
+        "Mã học sinh": "0117072627",
+        "Họ và tên": "Kiều Anh Thịnh",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "5.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.25"
+        }
+    },
+    "114478": {
+        "Mã học sinh": "0131409699",
+        "Họ và tên": "Trần Hoài Thu",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "4.25",
+            "Toán": "8.00",
+            "Tổng điểm XT": "33.25"
+        }
+    },
+    "114480": {
+        "Mã học sinh": "0117069216",
+        "Họ và tên": "Đỗ Thu Thùy",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "9.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "43.25"
+        }
+    },
+    "114481": {
+        "Mã học sinh": "0150532703",
+        "Họ và tên": "Lê Thị Thanh Thủy",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "3.25",
+            "Toán": "7.25",
+            "Tổng điểm XT": "27.75"
+        }
+    },
+    "114477": {
+        "Mã học sinh": "0117072068",
+        "Họ và tên": "Nguyễn Thị Hương Thu",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.50",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114479": {
+        "Mã học sinh": "0117072791",
+        "Họ và tên": "Lê Ngọc Thu Thuỷ",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "5.00",
+            "Toán": "6.00",
+            "Tổng điểm XT": "32.50"
+        }
+    },
+    "114482": {
+        "Mã học sinh": "0117072485",
+        "Họ và tên": "Nguyễn Thị Thu Thủy",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "4.25",
+            "Toán": "6.25",
+            "Tổng điểm XT": "29.75"
+        }
+    },
+    "114484": {
+        "Mã học sinh": "0117072599",
+        "Họ và tên": "Hoàng Đình Thụ",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "6.00",
+            "Toán": "4.50",
+            "Tổng điểm XT": "27.50"
+        }
+    },
+    "114483": {
+        "Mã học sinh": "0117068254",
+        "Họ và tên": "Phùng Thị Thanh Thủy",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "5.50",
+            "Toán": "8.50",
+            "Tổng điểm XT": "37.00"
+        }
+    },
+    "114486": {
+        "Mã học sinh": "0131409701",
+        "Họ và tên": "Phùng Viết Tiến",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "4.75",
+            "Toán": "6.25",
+            "Tổng điểm XT": "27.75"
+        }
+    },
+    "114487": {
+        "Mã học sinh": "0150530374",
+        "Họ và tên": "Nguyễn Ngọc Toàn",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "38.50"
+        }
+    },
+    "114485": {
+        "Mã học sinh": "0117072601",
+        "Họ và tên": "Kiều Việt Tiến",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "2.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "34.75"
+        }
+    },
+    "114490": {
+        "Mã học sinh": "0150530731",
+        "Họ và tên": "Đỗ Thị Trang",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "8.75",
+            "Tổng điểm XT": "39.00"
+        }
+    },
+    "114491": {
+        "Mã học sinh": "0117069156",
+        "Họ và tên": "Hoàng Huyền Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.25"
+        }
+    },
+    "114495": {
+        "Mã học sinh": "0131175748",
+        "Họ và tên": "Nguyễn Quỳnh Trang",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "4.75",
+            "Toán": "7.50",
+            "Tổng điểm XT": "30.25"
+        }
+    },
+    "114488": {
+        "Mã học sinh": "0117068572",
+        "Họ và tên": "Bùi Thu Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.00"
+        }
+    },
+    "114489": {
+        "Mã học sinh": "0117069205",
+        "Họ và tên": "Đỗ Quỳnh Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "10.0",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.00"
+        }
+    },
+    "114493": {
+        "Mã học sinh": "0117069007",
+        "Họ và tên": "Lê Trần Huyền Trang",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "4.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "32.50"
+        }
+    },
+    "114492": {
+        "Mã học sinh": "0117069009",
+        "Họ và tên": "Lê Thùy Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "6.75",
+            "Toán": "7.00",
+            "Tổng điểm XT": "35.75"
+        }
+    },
+    "114494": {
+        "Mã học sinh": "0117068211",
+        "Họ và tên": "Nguyễn Huyền Trang",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "4.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "32.00"
+        }
+    },
+    "114497": {
+        "Mã học sinh": "0131175746",
+        "Họ và tên": "Nguyễn Thị Huyền Trang",
+        "Điểm thi": {
+            "Ngữ văn": "4.75",
+            "Ngoại ngữ": "3.50",
+            "Toán": "6.00",
+            "Tổng điểm XT": "25.00"
+        }
+    },
+    "114503": {
+        "Mã học sinh": "0144209717",
+        "Họ và tên": "Nguyễn Thị Thu Trang",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "9.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "44.25"
+        }
+    },
+    "114500": {
+        "Mã học sinh": "0131409703",
+        "Họ và tên": "Nguyễn Thị Quỳnh Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114496": {
+        "Mã học sinh": "0117068116",
+        "Họ và tên": "Nguyễn Thị Huyền Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "7.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114498": {
+        "Mã học sinh": "0160966517",
+        "Họ và tên": "Nguyễn Thị Huyền Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.00",
+            "Toán": "8.00",
+            "Tổng điểm XT": "38.50"
+        }
+    },
+    "114499": {
+        "Mã học sinh": "0117066689",
+        "Họ và tên": "Nguyễn Thị Phương Trang",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "2.50",
+            "Toán": "6.25",
+            "Tổng điểm XT": "27.50"
+        }
+    },
+    "114505": {
+        "Mã học sinh": "0117066516",
+        "Họ và tên": "Nguyễn Thùy Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "5.25",
+            "Toán": "7.25",
+            "Tổng điểm XT": "34.25"
+        }
+    },
+    "114507": {
+        "Mã học sinh": "0131409706",
+        "Họ và tên": "Nguyễn Thùy Trang",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "4.25",
+            "Toán": "7.00",
+            "Tổng điểm XT": "28.25"
+        }
+    },
+    "114506": {
+        "Mã học sinh": "0117068080",
+        "Họ và tên": "Nguyễn Thùy Trang",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "8.25",
+            "Toán": "7.00",
+            "Tổng điểm XT": "38.25"
+        }
+    },
+    "114502": {
+        "Mã học sinh": "0144153414",
+        "Họ và tên": "Nguyễn Thị Thu Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "7.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114501": {
+        "Mã học sinh": "0131409704",
+        "Họ và tên": "Nguyễn Thị Thu Trang",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "3.50",
+            "Toán": "5.25",
+            "Tổng điểm XT": "24.50"
+        }
+    },
+    "114504": {
+        "Mã học sinh": "0117068336",
+        "Họ và tên": "Nguyễn Thuỳ Trang",
+        "Điểm thi": {
+            "Ngữ văn": "4.50",
+            "Ngoại ngữ": "5.25",
+            "Toán": "7.25",
+            "Tổng điểm XT": "28.75"
+        }
+    },
+    "114508": {
+        "Mã học sinh": "0117068121",
+        "Họ và tên": "Phùng Thị Thu Trang",
+        "Điểm thi": {
+            "Ngữ văn": "4.00",
+            "Ngoại ngữ": "3.25",
+            "Toán": "1.00",
+            "Tổng điểm XT": "13.25"
+        }
+    },
+    "114514": {
+        "Mã học sinh": "0132260140",
+        "Họ và tên": "Nguyễn Cường Tráng",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.50",
+            "Toán": "8.25",
+            "Tổng điểm XT": "39.00"
+        }
+    },
+    "114510": {
+        "Mã học sinh": "0117072630",
+        "Họ và tên": "Tạ Thu Trang",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "6.25",
+            "Toán": "7.25",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114511": {
+        "Mã học sinh": "0144209721",
+        "Họ và tên": "Trần Huyền Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.00"
+        }
+    },
+    "114512": {
+        "Mã học sinh": "0117069127",
+        "Họ và tên": "Trần Thanh Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "9.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.75"
+        }
+    },
+    "114509": {
+        "Mã học sinh": "0117072536",
+        "Họ và tên": "Tạ Thị Thu Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "2.50",
+            "Toán": "6.00",
+            "Tổng điểm XT": "29.50"
+        }
+    },
+    "114515": {
+        "Mã học sinh": "0132260141",
+        "Họ và tên": "Nguyễn Ngọc Trâm",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "6.75",
+            "Toán": "5.25",
+            "Tổng điểm XT": "33.75"
+        }
+    },
+    "114513": {
+        "Mã học sinh": "0117066691",
+        "Họ và tên": "Trương Thị Trang",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "4.25",
+            "Toán": "6.50",
+            "Tổng điểm XT": "32.75"
+        }
+    },
+    "114520": {
+        "Mã học sinh": "0117072524",
+        "Họ và tên": "Phạm Trường Trọng",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "4.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "35.75"
+        }
+    },
+    "114516": {
+        "Mã học sinh": "0117068262",
+        "Họ và tên": "Nguyễn Thị Ngọc Trâm",
+        "Điểm thi": {
+            "Ngữ văn": "5.25",
+            "Ngoại ngữ": "4.50",
+            "Toán": "7.50",
+            "Tổng điểm XT": "30.00"
+        }
+    },
+    "114519": {
+        "Mã học sinh": "0150530734",
+        "Họ và tên": "Lê Đức Trí",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "8.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.50"
+        }
+    },
+    "114517": {
+        "Mã học sinh": "0132260142",
+        "Họ và tên": "Nguyễn Minh Triết",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "9.00",
+            "Toán": "9.75",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114518": {
+        "Mã học sinh": "0144648153",
+        "Họ và tên": "Nguyễn Thị Kiều Trinh",
+        "Điểm thi": {
+            "Ngữ văn": "9.00",
+            "Ngoại ngữ": "7.75",
+            "Toán": "8.50",
+            "Tổng điểm XT": "42.75"
+        }
+    },
+    "114521": {
+        "Mã học sinh": "0131175749",
+        "Họ và tên": "Nguyễn Thành Trung",
+        "Điểm thi": {
+            "Ngữ văn": "4.25",
+            "Ngoại ngữ": "4.25",
+            "Toán": "8.00",
+            "Tổng điểm XT": "28.75"
+        }
+    },
+    "114525": {
+        "Mã học sinh": "0150530736",
+        "Họ và tên": "Nguyễn Thế Trường",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "9.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "43.00"
+        }
+    },
+    "114527": {
+        "Mã học sinh": "0131175751",
+        "Họ và tên": "Nguyễn Xuân Trường",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "3.50",
+            "Toán": "6.25",
+            "Tổng điểm XT": "30.00"
+        }
+    },
+    "114522": {
+        "Mã học sinh": "0150530735",
+        "Họ và tên": "Nguyễn Duy Trường",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "40.00"
+        }
+    },
+    "114524": {
+        "Mã học sinh": "0131409707",
+        "Họ và tên": "Nguyễn Hữu Trường",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "4.50",
+            "Toán": "8.00",
+            "Tổng điểm XT": "33.00"
+        }
+    },
+    "114523": {
+        "Mã học sinh": "0117066739",
+        "Họ và tên": "Nguyễn Huy Trường",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "5.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114526": {
+        "Mã học sinh": "0131175750",
+        "Họ và tên": "Nguyễn Xuân Trường",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "4.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114528": {
+        "Mã học sinh": "0150530737",
+        "Họ và tên": "Nguyễn Xuân Trường",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.75",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114532": {
+        "Mã học sinh": "0117069001",
+        "Họ và tên": "Đỗ Văn Tuấn",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.50",
+            "Toán": "8.25",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114533": {
+        "Mã học sinh": "0117072604",
+        "Họ và tên": "Hoàng Anh Tuấn",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "9.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "44.25"
+        }
+    },
+    "114530": {
+        "Mã học sinh": "0117068210",
+        "Họ và tên": "Nguyễn Hữu Tuân",
+        "Điểm thi": {
+            "Ngữ văn": "5.50",
+            "Ngoại ngữ": "4.00",
+            "Toán": "7.75",
+            "Tổng điểm XT": "30.50"
+        }
+    },
+    "114529": {
+        "Mã học sinh": "0117067928",
+        "Họ và tên": "Phùng Minh Trường",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "6.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "38.75"
+        }
+    },
+    "114531": {
+        "Mã học sinh": "0117072640",
+        "Họ và tên": "Phạm Tuân",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.75",
+            "Toán": "6.50",
+            "Tổng điểm XT": "36.25"
+        }
+    },
+    "114536": {
+        "Mã học sinh": "0131409709",
+        "Họ và tên": "Nguyễn Viết Tuấn",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "6.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.00"
+        }
+    },
+    "114534": {
+        "Mã học sinh": "0117072606",
+        "Họ và tên": "Nguyễn Minh Tuấn",
+        "Điểm thi": {
+            "Ngữ văn": "6.33",
+            "Ngoại ngữ": "4.25",
+            "Toán": "7.75",
+            "Tổng điểm XT": "32.41"
+        }
+    },
+    "114538": {
+        "Mã học sinh": "0131175754",
+        "Họ và tên": "Lê Thị Kim Tuyến",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "7.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.75"
+        }
+    },
+    "114539": {
+        "Mã học sinh": "0132260145",
+        "Họ và tên": "Đàm Vũ Khánh Tuyết",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "8.25",
+            "Toán": "8.50",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114537": {
+        "Mã học sinh": "0117071760",
+        "Họ và tên": "Vũ Minh Tuệ",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "7.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.25"
+        }
+    },
+    "114535": {
+        "Mã học sinh": "0117073934",
+        "Họ và tên": "Nguyễn Quốc Tuấn",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "3.75",
+            "Toán": "7.00",
+            "Tổng điểm XT": "29.75"
+        }
+    },
+    "114540": {
+        "Mã học sinh": "0117069214",
+        "Họ và tên": "Đỗ Ánh Tuyết",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "5.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "39.50"
+        }
+    },
+    "114543": {
+        "Mã học sinh": "0117066785",
+        "Họ và tên": "Trần Minh Tuyển",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.75"
+        }
+    },
+    "114541": {
+        "Mã học sinh": "0131175755",
+        "Họ và tên": "Nguyễn Ánh Tuyết",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "4.50",
+            "Toán": "8.00",
+            "Tổng điểm XT": "35.50"
+        }
+    },
+    "114545": {
+        "Mã học sinh": "0117072032",
+        "Họ và tên": "Nguyễn Anh Tú",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "3.00",
+            "Toán": "7.25",
+            "Tổng điểm XT": "33.00"
+        }
+    },
+    "114542": {
+        "Mã học sinh": "0131175756",
+        "Họ và tên": "Trần Thị Tuyết",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "3.50",
+            "Toán": "7.00",
+            "Tổng điểm XT": "34.00"
+        }
+    },
+    "114544": {
+        "Mã học sinh": "0117068258",
+        "Họ và tên": "Lê Anh Tú",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "3.75",
+            "Toán": "8.00",
+            "Tổng điểm XT": "32.75"
+        }
+    },
+    "114546": {
+        "Mã học sinh": "0117068206",
+        "Họ và tên": "Nguyễn Cẩm Tú",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "3.25",
+            "Toán": "7.00",
+            "Tổng điểm XT": "32.25"
+        }
+    },
+    "114548": {
+        "Mã học sinh": "0117072522",
+        "Họ và tên": "Trịnh Tuấn Tú",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.00",
+            "Toán": "6.75",
+            "Tổng điểm XT": "33.50"
+        }
+    },
+    "114547": {
+        "Mã học sinh": "0132260143",
+        "Họ và tên": "Nguyễn Cẩm Tú",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.75",
+            "Toán": "8.50",
+            "Tổng điểm XT": "39.75"
+        }
+    },
+    "114549": {
+        "Mã học sinh": "0117071720",
+        "Họ và tên": "Đặng Trịnh Đình Tùng",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "9.50",
+            "Toán": "6.50",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114550": {
+        "Mã học sinh": "0117067994",
+        "Họ và tên": "Nguyễn Kiến Tùng",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "7.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "40.50"
+        }
+    },
+    "114551": {
+        "Mã học sinh": "0117072017",
+        "Họ và tên": "Nguyễn Thanh Tùng",
+        "Điểm thi": {
+            "Ngữ văn": "6.25",
+            "Ngoại ngữ": "7.50",
+            "Toán": "8.25",
+            "Tổng điểm XT": "36.50"
+        }
+    },
+    "114552": {
+        "Mã học sinh": "0131409711",
+        "Họ và tên": "Đỗ Thị Thu Uyên",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "9.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "44.50"
+        }
+    },
+    "114554": {
+        "Mã học sinh": "0117068279",
+        "Họ và tên": "Nguyễn Thị Thu Uyên",
+        "Điểm thi": {
+            "Ngữ văn": "8.75",
+            "Ngoại ngữ": "8.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "44.25"
+        }
+    },
+    "114553": {
+        "Mã học sinh": "0117068522",
+        "Họ và tên": "Kiều Thị Uyên",
+        "Điểm thi": {
+            "Ngữ văn": "8.25",
+            "Ngoại ngữ": "6.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.00"
+        }
+    },
+    "114557": {
+        "Mã học sinh": "0117066867",
+        "Họ và tên": "Trần Hoàng Vi",
+        "Điểm thi": {
+            "Ngữ văn": "7.33",
+            "Ngoại ngữ": "6.75",
+            "Toán": "8.25",
+            "Tổng điểm XT": "37.91"
+        }
+    },
+    "114556": {
+        "Mã học sinh": "0132260146",
+        "Họ và tên": "Nguyễn Hồng Vân",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "8.50",
+            "Toán": "6.25",
+            "Tổng điểm XT": "35.00"
+        }
+    },
+    "114555": {
+        "Mã học sinh": "0117068213",
+        "Họ và tên": "Nguyễn Thị Trang Uyên",
+        "Điểm thi": {
+            "Ngữ văn": "7.50",
+            "Ngoại ngữ": "5.00",
+            "Toán": "7.25",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114558": {
+        "Mã học sinh": "0263753155",
+        "Họ và tên": "Lưu Văn Việt",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "7.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "41.25"
+        }
+    },
+    "114560": {
+        "Mã học sinh": "0117072138",
+        "Họ và tên": "Nguyễn Thành Vinh",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "3.00",
+            "Toán": "8.50",
+            "Tổng điểm XT": "34.00"
+        }
+    },
+    "114563": {
+        "Mã học sinh": "0117069207",
+        "Họ và tên": "Trần Nguyên Vũ",
+        "Điểm thi": {
+            "Ngữ văn": "5.75",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "34.00"
+        }
+    },
+    "114559": {
+        "Mã học sinh": "0131409717",
+        "Họ và tên": "Nguyễn Kiến Việt",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "6.00",
+            "Toán": "8.00",
+            "Tổng điểm XT": "38.00"
+        }
+    },
+    "114562": {
+        "Mã học sinh": "0117067147",
+        "Họ và tên": "Lưu Quang Vũ",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "9.25",
+            "Toán": "8.75",
+            "Tổng điểm XT": "42.75"
+        }
+    },
+    "114561": {
+        "Mã học sinh": "0131175758",
+        "Họ và tên": "Lê Huy Vũ",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "3.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "36.75"
+        }
+    },
+    "114569": {
+        "Mã học sinh": "0117068574",
+        "Họ và tên": "Bùi Thị Thanh Xuân",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "5.50",
+            "Toán": "7.25",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114568": {
+        "Mã học sinh": "0117068516",
+        "Họ và tên": "Trần Văn Vỹ",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "5.75",
+            "Toán": "9.00",
+            "Tổng điểm XT": "35.75"
+        }
+    },
+    "114567": {
+        "Mã học sinh": "0117068154",
+        "Họ và tên": "Tạ Hà Phương Vy",
+        "Điểm thi": {
+            "Ngữ văn": "7.25",
+            "Ngoại ngữ": "6.50",
+            "Toán": "8.25",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114565": {
+        "Mã học sinh": "0150530740",
+        "Họ và tên": "Đỗ Quang Vượng",
+        "Điểm thi": {
+            "Ngữ văn": "7.00",
+            "Ngoại ngữ": "4.25",
+            "Toán": "8.25",
+            "Tổng điểm XT": "34.75"
+        }
+    },
+    "114564": {
+        "Mã học sinh": "0117072542",
+        "Họ và tên": "Phạm Thế Vương",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "3.75",
+            "Toán": "6.25",
+            "Tổng điểm XT": "32.25"
+        }
+    },
+    "114566": {
+        "Mã học sinh": "0117068955",
+        "Họ và tên": "Lê Thị Hà Vy",
+        "Điểm thi": {
+            "Ngữ văn": "6.00",
+            "Ngoại ngữ": "4.50",
+            "Toán": "6.50",
+            "Tổng điểm XT": "29.50"
+        }
+    },
+    "114571": {
+        "Mã học sinh": "0117067027",
+        "Họ và tên": "Lê Thị Huyền Yên",
+        "Điểm thi": {
+            "Ngữ văn": "6.50",
+            "Ngoại ngữ": "8.00",
+            "Toán": "8.25",
+            "Tổng điểm XT": "37.50"
+        }
+    },
+    "114572": {
+        "Mã học sinh": "0144209723",
+        "Họ và tên": "Đoàn Thị Hải Yến",
+        "Điểm thi": {
+            "Ngữ văn": "5.00",
+            "Ngoại ngữ": "6.50",
+            "Toán": "6.75",
+            "Tổng điểm XT": "30.00"
+        }
+    },
+    "114573": {
+        "Mã học sinh": "0117068126",
+        "Họ và tên": "Lưu Ngọc Yến",
+        "Điểm thi": {
+            "Ngữ văn": "8.50",
+            "Ngoại ngữ": "8.25",
+            "Toán": "9.00",
+            "Tổng điểm XT": "43.25"
+        }
+    },
+    "114574": {
+        "Mã học sinh": "0131409727",
+        "Họ và tên": "Nguyễn Hải Yến",
+        "Điểm thi": {
+            "Ngữ văn": "6.75",
+            "Ngoại ngữ": "6.00",
+            "Toán": "7.50",
+            "Tổng điểm XT": "34.50"
+        }
+    },
+    "114575": {
+        "Mã học sinh": "0117071764",
+        "Họ và tên": "Trịnh Thị Kim Yến",
+        "Điểm thi": {
+            "Ngữ văn": "8.00",
+            "Ngoại ngữ": "9.00",
+            "Toán": "9.00",
+            "Tổng điểm XT": "43.00"
+        }
+    },
+    "114570": {
+        "Mã học sinh": "0117069011",
+        "Họ và tên": "Nguyễn Thanh Xuân",
+        "Điểm thi": {
+            "Ngữ văn": "7.75",
+            "Ngoại ngữ": "8.50",
+            "Toán": "9.00",
+            "Tổng điểm XT": "42.00"
+        }
+    }
+}

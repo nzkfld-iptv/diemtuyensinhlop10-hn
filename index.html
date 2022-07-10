@@ -1,0 +1,15 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <script>
+    fetch('/final_data1.json').then(res => res.json()).then(d => {
+      for (let [key, value] of Object.entries(d)) {
+        console.log(key, value);
+      }
+    });
+
+    fetch('/final_data2.json').then(res => res.json()).then(d => {
+      for (let [key, value] of Object.entries(d)) {
+        console.log(key, value);
+      }
+    });
+  </script> 
+</html>
